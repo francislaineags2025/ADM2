@@ -1,0 +1,1557 @@
+Nome_Municipio	Sigla_UF	regiao	Data_Registro	Data_Evento	descricao_tipologia	grupo_de_desastre	Cod_IBGE_Mun	Status	DH_MORTOS	DH_FERIDOS	DH_ENFERMOS	DH_DESABRIGADOS	DH_DESALOJADOS	DH_AFETADOS_SECA_ESTIAGEM	DH_total_danos_humanos_diretos	DM_Inst Saúde Danificadas	DM_Inst Saúde Destruidas
+Abdon Batista	SC	Sul	17/02/2022	25/10/2021	Chuvas Intensas	Hidrológico	4200051	Registro	0	0	0	0	0	0	0	0	0
+Abdon Batista	SC	Sul	01/04/2022	16/02/2022	Chuvas Intensas	Hidrológico	4200051	Registro	0	0	0	0	0	0	0	0	0
+Abdon Batista	SC	Sul	23/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4200051	Registro	0	0	0	0	8	0	8	0	50
+Abdon Batista	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4200051	Reconhecido	0	0	0	0	0	0	0	0	0
+Abdon Batista	SC	Sul	21/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4200051	Reconhecido	0	0	0	0	0	0	0	0	0
+Abdon Batista	SC	Sul	19/01/2024	18/01/2024	Chuvas Intensas	Hidrológico	4200051	Registro	0	0	0	0	0	0	0	0	0
+Abelardo Luz	SC	Sul	18/04/2022	08/04/2022	Chuvas Intensas	Hidrológico	4200101	Registro	0	0	0	0	0	0	0	0	0
+Abelardo Luz	SC	Sul	31/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4200101	Reconhecido	0	0	0	0	0	0	0	0	0
+Abelardo Luz	SC	Sul	12/05/2022	12/05/2022	Chuvas Intensas	Hidrológico	4200101	Registro	0	0	0	0	0	0	0	0	0
+Abelardo Luz	SC	Sul	11/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4200101	Reconhecido	0	0	0	4	93	0	97	0	0
+Abelardo Luz	SC	Sul	20/10/2023	17/10/2023	Chuvas Intensas	Hidrológico	4200101	Registro	0	0	0	0	0	0	0	0	0
+Agrolândia	SC	Sul	09/05/2022	05/05/2022	Enxurradas	Hidrológico	4200200	Reconhecido	0	0	0	0	3	0	3	0	0
+Agrolândia	SC	Sul	06/12/2022	04/12/2022	Enxurradas	Hidrológico	4200200	Reconhecido	0	0	0	5	15	0	20	0	0
+Agrolândia	SC	Sul	12/01/2023	11/01/2023	Enxurradas	Hidrológico	4200200	Registro	0	0	0	0	0	0	0	0	0
+Agrolândia	SC	Sul	06/02/2023	02/02/2023	Enxurradas	Hidrológico	4200200	Registro	0	0	0	0	0	0	0	0	200
+Agrolândia	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4200200	Reconhecido	0	0	0	19	300	0	319	0	0
+Agrolândia	SC	Sul	21/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4200200	Reconhecido	0	2	0	300	700	0	1002	0	0
+Agrolândia	SC	Sul	11/10/2024	11/10/2024	Chuvas Intensas	Hidrológico	4200200	Registro	0	1	0	0	0	0	1	0	0
+Agronômica	SC	Sul	09/03/2022	08/03/2022	Chuvas Intensas	Hidrológico	4200309	Registro	0	0	0	0	5	0	5	0	0
+Agronômica	SC	Sul	05/05/2022	04/05/2022	Inundações	Hidrológico	4200309	Reconhecido	0	0	0	51	156	0	207	0	0
+Agronômica	SC	Sul	22/06/2022	22/06/2022	Enxurradas	Hidrológico	4200309	Registro	0	0	0	0	0	0	0	0	0
+Agronômica	SC	Sul	17/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4200309	Registro	0	0	0	0	0	0	0	0	2
+Agronômica	SC	Sul	26/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4200309	Reconhecido	0	0	0	138	659	0	797	2	209
+Agronômica	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4200309	Reconhecido	0	0	0	226	983	0	1209	0	307
+Agronômica	SC	Sul	18/01/2024	18/01/2024	Chuvas Intensas	Hidrológico	4200309	Registro	0	0	0	0	0	0	0	0	0
+Água Doce	SC	Sul	05/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4200408	Registro	0	0	0	0	0	0	0	0	0
+Água Doce	SC	Sul	18/10/2022	14/10/2022	Chuvas Intensas	Hidrológico	4200408	Registro	0	0	0	0	0	0	0	0	0
+Água Doce	SC	Sul	24/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4200408	Reconhecido	0	0	0	0	5	0	5	0	18
+Águas de Chapecó	SC	Sul	17/10/2022	14/10/2022	Alagamentos	Hidrológico	4200507	Reconhecido	0	0	0	0	43	0	43	0	0
+Águas de Chapecó	SC	Sul	18/10/2023	09/10/2023	Chuvas Intensas	Hidrológico	4200507	Registro	0	0	0	18	89	0	107	0	0
+Águas Frias	SC	Sul	17/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4200556	Registro	0	0	0	0	0	0	0	0	4
+Águas Mornas	SC	Sul	29/01/2021	29/01/2021	Enxurradas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	09/06/2021	09/06/2021	Alagamentos	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	10/06/2021	10/06/2021	Chuvas Intensas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	14/03/2022	10/02/2022	Enxurradas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	10/05/2022	05/05/2022	Chuvas Intensas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	04/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4200606	Reconhecido	0	0	0	30	250	0	280	0	0
+Águas Mornas	SC	Sul	03/02/2023	02/02/2023	Chuvas Intensas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	24/03/2023	22/03/2023	Chuvas Intensas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	30/03/2023	29/03/2023	Enxurradas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	09/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4200606	Registro	0	0	0	0	0	0	0	0	0
+Águas Mornas	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4200606	Reconhecido	0	0	0	0	16	0	16	0	0
+Alfredo Wagner	SC	Sul	29/01/2021	29/01/2021	Enxurradas	Hidrológico	4200705	Reconhecido	0	0	0	10	1	0	11	0	0
+Alfredo Wagner	SC	Sul	25/03/2022	24/03/2022	Alagamentos	Hidrológico	4200705	Registro	0	0	0	0	0	0	0	0	0
+Alfredo Wagner	SC	Sul	05/05/2022	04/05/2022	Enxurradas	Hidrológico	4200705	Reconhecido	0	0	0	0	2	0	2	0	0
+Alfredo Wagner	SC	Sul	16/10/2022	11/10/2022	Enxurradas	Hidrológico	4200705	Registro	0	0	0	0	0	0	0	0	0
+Alfredo Wagner	SC	Sul	18/01/2023	10/01/2023	Enxurradas	Hidrológico	4200705	Registro	0	0	0	7	16	0	23	3	7
+Anchieta	SC	Sul	12/11/2021	12/11/2021	Enxurradas	Hidrológico	4200804	Registro	0	0	0	0	0	0	0	0	0
+Anchieta	SC	Sul	30/03/2022	25/03/2022	Enxurradas	Hidrológico	4200804	Reconhecido	0	0	0	0	0	0	0	0	0
+Anchieta	SC	Sul	23/01/2023	18/01/2023	Enxurradas	Hidrológico	4200804	Registro	0	0	0	0	0	0	0	0	0
+Anchieta	SC	Sul	02/03/2023	23/02/2023	Enxurradas	Hidrológico	4200804	Registro	0	0	0	0	0	0	0	0	1
+Anchieta	SC	Sul	18/07/2023	12/07/2023	Enxurradas	Hidrológico	4200804	Registro	0	0	0	0	0	0	0	0	0
+Anchieta	SC	Sul	08/11/2023	31/10/2023	Chuvas Intensas	Hidrológico	4200804	Reconhecido	0	0	0	0	0	0	0	0	0
+Angelina	SC	Sul	10/02/2020	10/02/2020	Enxurradas	Hidrológico	4200903	Registro	0	0	0	0	3	0	3	0	0
+Angelina	SC	Sul	26/01/2021	26/01/2021	Enxurradas	Hidrológico	4200903	Registro	0	0	0	0	0	0	0	0	0
+Angelina	SC	Sul	04/12/2022	28/11/2022	Chuvas Intensas	Hidrológico	4200903	Reconhecido	0	5	0	42	500	0	547	1	0
+Anita Garibaldi	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4201000	Reconhecido	0	0	0	0	22	0	22	0	0
+Anita Garibaldi	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4201000	Registro	0	0	0	0	0	0	0	0	0
+Anitápolis	SC	Sul	08/02/2021	08/02/2021	Enxurradas	Hidrológico	4201109	Reconhecido	0	0	0	0	11	0	11	0	0
+Anitápolis	SC	Sul	22/11/2021	22/11/2021	Enxurradas	Hidrológico	4201109	Registro	0	0	0	0	0	0	0	0	0
+Anitápolis	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4201109	Reconhecido	0	1	0	28	223	0	252	0	0
+Anitápolis	SC	Sul	03/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4201109	Reconhecido	0	0	0	0	45	0	45	0	0
+Anitápolis	SC	Sul	28/06/2023	28/06/2023	Chuvas Intensas	Hidrológico	4201109	Registro	0	0	0	0	45	0	45	5	215
+Anitápolis	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4201109	Reconhecido	0	0	0	0	45	0	45	0	10
+Antônio Carlos	SC	Sul	01/03/2022	21/02/2022	Chuvas Intensas	Hidrológico	4201208	Registro	0	0	0	0	0	0	0	0	0
+Antônio Carlos	SC	Sul	03/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4201208	Reconhecido	0	0	0	26	450	0	476	0	0
+Antônio Carlos	SC	Sul	18/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4201208	Reconhecido	0	0	0	0	0	0	0	0	0
+Apiúna	SC	Sul	17/12/2020	17/12/2020	Enxurradas	Hidrológico	4201257	Registro	0	0	0	0	64	0	64	1	0
+Apiúna	SC	Sul	06/05/2022	04/05/2022	Alagamentos	Hidrológico	4201257	Registro	0	0	0	0	26	0	26	0	0
+Apiúna	SC	Sul	31/08/2022	31/08/2022	Chuvas Intensas	Hidrológico	4201257	Registro	0	12	0	19	22	0	53	0	0
+Apiúna	SC	Sul	11/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4201257	Registro	0	0	0	2	55	0	57	0	28
+Apiúna	SC	Sul	29/02/2024	28/02/2024	Enxurradas	Hidrológico	4201257	Registro	0	0	0	0	4	0	4	0	0
+Apiúna	SC	Sul	20/05/2024	18/05/2024	Chuvas Intensas	Hidrológico	4201257	Registro	0	0	0	0	5	0	5	0	0
+Arabutã	SC	Sul	06/04/2022	25/03/2022	Enxurradas	Hidrológico	4201273	Registro	0	0	0	0	0	0	0	0	0
+Arabutã	SC	Sul	11/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4201273	Registro	0	0	0	0	0	0	0	0	0
+Araquari	SC	Sul	08/03/2022	07/03/2022	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	0	0	0	0	0	0
+Araquari	SC	Sul	27/11/2022	16/11/2022	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	0	0	0	0	0	0
+Araquari	SC	Sul	29/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	0	35	0	35	0	0
+Araquari	SC	Sul	05/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4201307	Reconhecido	0	0	0	0	0	0	0	0	0
+Araquari	SC	Sul	21/12/2022	17/12/2022	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	4	0	0	4	0	0
+Araquari	SC	Sul	24/03/2023	23/03/2023	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	0	58	0	58	0	15
+Araquari	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4201307	Reconhecido	0	0	0	0	0	0	0	0	2
+Araquari	SC	Sul	03/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4201307	Reconhecido	0	0	0	0	12	0	12	0	3
+Araquari	SC	Sul	11/01/2024	11/01/2024	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	0	0	0	0	0	0
+Araquari	SC	Sul	22/01/2024	22/01/2024	Chuvas Intensas	Hidrológico	4201307	Registro	0	1	0	0	0	0	1	0	0
+Araquari	SC	Sul	26/02/2024	24/02/2024	Chuvas Intensas	Hidrológico	4201307	Reconhecido	0	0	0	0	631	0	631	0	0
+Araquari	SC	Sul	07/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4201307	Registro	0	0	0	3	0	0	3	0	0
+Araranguá	SC	Sul	17/02/2022	03/11/2021	Chuvas Intensas	Hidrológico	4201406	Registro	0	0	0	0	0	0	0	0	0
+Araranguá	SC	Sul	15/12/2021	15/12/2021	Chuvas Intensas	Hidrológico	4201406	Registro	0	0	0	0	0	0	0	0	0
+Araranguá	SC	Sul	22/02/2022	27/01/2022	Enxurradas	Hidrológico	4201406	Registro	0	0	0	0	0	0	0	0	0
+Araranguá	SC	Sul	03/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4201406	Reconhecido	0	0	0	98	606	0	704	0	0
+Araranguá	SC	Sul	12/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4201406	Reconhecido	0	0	0	92	80	0	172	0	0
+Araranguá	SC	Sul	10/08/2022	10/08/2022	Enxurradas	Hidrológico	4201406	Registro	0	0	0	10	6	0	16	0	0
+Araranguá	SC	Sul	05/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4201406	Registro	0	0	0	0	0	0	0	0	0
+Araranguá	SC	Sul	08/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4201406	Reconhecido	0	0	0	71	38	0	109	0	3
+Araranguá	SC	Sul	02/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4201406	Registro	0	0	0	0	4	0	4	0	0
+Araranguá	SC	Sul	12/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4201406	Reconhecido	0	0	0	90	200	0	290	0	0
+Armazém	SC	Sul	14/07/2021	14/07/2021	Enxurradas	Hidrológico	4201505	Registro	0	0	0	0	0	0	0	0	0
+Armazém	SC	Sul	10/05/2022	05/05/2022	Enxurradas	Hidrológico	4201505	Reconhecido	0	0	0	4	40	0	44	0	0
+Armazém	SC	Sul	17/08/2022	10/08/2022	Enxurradas	Hidrológico	4201505	Registro	0	0	0	0	0	0	0	0	0
+Armazém	SC	Sul	02/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4201505	Reconhecido	0	0	0	60	720	0	780	0	0
+Arroio Trinta	SC	Sul	16/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4201604	Registro	0	0	0	0	0	0	0	0	0
+Arvoredo	SC	Sul	04/05/2022	04/05/2022	Alagamentos	Hidrológico	4201653	Registro	0	0	0	0	0	0	0	0	0
+Arvoredo	SC	Sul	17/10/2022	10/10/2022	Alagamentos	Hidrológico	4201653	Registro	0	0	0	0	0	0	0	0	0
+Arvoredo	SC	Sul	23/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4201653	Reconhecido	0	0	0	0	0	0	0	0	3
+Arvoredo	SC	Sul	29/02/2024	27/02/2024	Chuvas Intensas	Hidrológico	4201653	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	11/02/2020	11/02/2020	Inundações	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	28/11/2020	28/11/2020	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	4	0	4	0	0
+Ascurra	SC	Sul	16/12/2020	16/12/2020	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	19/12/2020	19/12/2020	Enxurradas	Hidrológico	4201703	Registro	0	0	0	0	15	0	15	0	0
+Ascurra	SC	Sul	25/01/2021	25/01/2021	Enxurradas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	25/01/2021	25/01/2021	Chuvas Intensas	Hidrológico	4201703	Reconhecido	0	0	0	0	122	0	122	0	0
+Ascurra	SC	Sul	23/02/2022	22/02/2022	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	05/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	3	0	3	0	0
+Ascurra	SC	Sul	10/06/2022	08/06/2022	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	05/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	18/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4201703	Reconhecido	0	0	0	0	1428	0	1428	0	357
+Ascurra	SC	Sul	30/03/2023	29/03/2023	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	18/04/2023	17/04/2023	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	12/07/2023	11/07/2023	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	9	0	9	0	0
+Ascurra	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4201703	Reconhecido	0	0	0	54	630	0	684	2	0
+Ascurra	SC	Sul	30/10/2023	29/10/2023	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	03/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	48	0	48	0	0
+Ascurra	SC	Sul	05/03/2024	04/03/2024	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Ascurra	SC	Sul	19/05/2024	18/05/2024	Chuvas Intensas	Hidrológico	4201703	Registro	0	0	0	0	0	0	0	0	0
+Atalanta	SC	Sul	04/05/2022	04/05/2022	Enxurradas	Hidrológico	4201802	Registro	0	0	0	4	0	0	4	0	0
+Atalanta	SC	Sul	10/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4201802	Reconhecido	0	0	0	4	18	0	22	0	0
+Atalanta	SC	Sul	20/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4201802	Reconhecido	0	0	0	7	82	0	89	0	1
+Aurora	SC	Sul	28/01/2020	28/01/2020	Enxurradas	Hidrológico	4201901	Registro	0	0	0	0	0	0	0	0	0
+Aurora	SC	Sul	17/12/2020	17/12/2020	Enxurradas	Hidrológico	4201901	Reconhecido	0	0	0	0	0	0	0	0	0
+Aurora	SC	Sul	03/03/2022	01/03/2022	Enxurradas	Hidrológico	4201901	Registro	0	0	0	0	0	0	0	0	0
+Aurora	SC	Sul	05/05/2022	02/05/2022	Inundações	Hidrológico	4201901	Reconhecido	0	0	0	0	20	0	20	0	0
+Aurora	SC	Sul	28/06/2022	22/06/2022	Enxurradas	Hidrológico	4201901	Registro	0	0	0	0	0	0	0	0	0
+Aurora	SC	Sul	17/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4201901	Reconhecido	0	0	0	0	2	0	2	1	3
+Aurora	SC	Sul	11/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4201901	Reconhecido	0	0	0	116	500	0	616	0	0
+Aurora	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4201901	Reconhecido	0	0	0	254	500	0	754	0	10
+Aurora	SC	Sul	15/07/2024	14/07/2024	Chuvas Intensas	Hidrológico	4201901	Registro	0	0	0	10	1	0	11	0	0
+Balneário Arroio do Silva	SC	Sul	11/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4201950	Registro	0	0	0	0	0	0	0	0	0
+Balneário Barra do Sul	SC	Sul	12/02/2020	12/02/2020	Chuvas Intensas	Hidrológico	4202057	Registro	0	0	0	0	110	0	110	0	0
+Balneário Barra do Sul	SC	Sul	02/03/2021	02/03/2021	Inundações	Hidrológico	4202057	Registro	0	0	0	4	11	0	15	0	0
+Balneário Barra do Sul	SC	Sul	16/03/2022	15/03/2022	Chuvas Intensas	Hidrológico	4202057	Registro	0	0	0	0	0	0	0	0	0
+Balneário Barra do Sul	SC	Sul	23/03/2023	23/03/2023	Chuvas Intensas	Hidrológico	4202057	Reconhecido	0	0	0	0	564	0	564	0	134
+Balneário Barra do Sul	SC	Sul	15/01/2024	11/01/2024	Chuvas Intensas	Hidrológico	4202057	Registro	0	0	0	0	0	0	0	0	0
+Balneário Barra do Sul	SC	Sul	15/01/2024	12/01/2024	Chuvas Intensas	Hidrológico	4202057	Registro	0	0	0	0	0	0	0	0	0
+Balneário Barra do Sul	SC	Sul	29/01/2024	26/01/2024	Alagamentos	Hidrológico	4202057	Registro	0	0	0	0	0	0	0	0	0
+Balneário Barra do Sul	SC	Sul	26/02/2024	25/02/2024	Chuvas Intensas	Hidrológico	4202057	Registro	0	0	0	0	461	0	461	0	0
+Balneário Camboriú	SC	Sul	25/03/2020	25/03/2020	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	25/03/2020	25/03/2020	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	25/03/2020	25/03/2020	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	25/08/2020	25/08/2020	Inundações	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	05/05/2021	05/05/2021	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	05/05/2021	05/05/2021	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	25/05/2021	25/05/2021	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	02/06/2021	02/06/2021	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	04/08/2021	04/08/2021	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	09/05/2022	09/01/2022	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	09/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	4	0	4	0	0
+Balneário Camboriú	SC	Sul	22/12/2022	18/12/2022	Inundações	Hidrológico	4202008	Reconhecido	0	0	0	30	2120	0	2150	0	0
+Balneário Camboriú	SC	Sul	29/05/2023	20/01/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	29/05/2023	29/01/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	12/12/2023	04/09/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	2	0	0	2	0	4	0	3
+Balneário Camboriú	SC	Sul	12/12/2023	26/09/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	13/12/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	13/12/2023	07/10/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	13/12/2023	11/10/2023	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	21/06/2024	02/01/2024	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	21/06/2024	08/01/2024	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Camboriú	SC	Sul	29/07/2024	12/04/2024	Chuvas Intensas	Hidrológico	4202008	Registro	0	0	0	0	0	0	0	0	0
+Balneário Gaivota	SC	Sul	14/06/2021	14/06/2021	Enxurradas	Hidrológico	4202073	Reconhecido	0	0	0	0	6	0	6	0	0
+Balneário Gaivota	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4202073	Reconhecido	0	0	0	0	23	0	23	0	157
+Balneário Gaivota	SC	Sul	18/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4202073	Reconhecido	0	0	0	0	200	0	200	0	368
+Balneário Gaivota	SC	Sul	16/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4202073	Reconhecido	0	0	0	20	52	0	72	0	0
+Balneário Gaivota	SC	Sul	17/06/2024	16/06/2024	Chuvas Intensas	Hidrológico	4202073	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	21/01/2021	21/01/2021	Chuvas Intensas	Hidrológico	4212809	Registro	0	0	0	0	7	0	7	0	0
+Balneário Piçarras	SC	Sul	20/05/2021	20/05/2021	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	20/05/2021	20/05/2021	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	20/05/2021	20/05/2021	Chuvas Intensas	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	09/06/2021	09/06/2021	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	10/01/2022	10/01/2022	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	21/03/2022	06/03/2022	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	01/04/2022	01/04/2022	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4212809	Reconhecido	0	0	0	0	23	0	23	1	0
+Balneário Piçarras	SC	Sul	23/03/2023	23/03/2023	Inundações	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Piçarras	SC	Sul	11/10/2024	09/10/2024	Alagamentos	Hidrológico	4212809	Registro	0	0	0	0	0	0	0	0	0
+Balneário Rincão	SC	Sul	16/06/2023	15/06/2023	Alagamentos	Hidrológico	4220000	Registro	0	0	0	2	0	0	2	0	0
+Bandeirante	SC	Sul	28/03/2022	24/03/2022	Enxurradas	Hidrológico	4202081	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	01/04/2022	24/03/2022	Inundações	Hidrológico	4202099	Registro	0	0	0	0	3	0	3	0	0
+Barra Bonita	SC	Sul	12/04/2022	07/04/2022	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	06/05/2022	02/05/2022	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	22/08/2022	18/08/2022	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	17/10/2022	11/10/2022	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	14/07/2023	11/07/2023	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	14/08/2023	11/08/2023	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	15/09/2023	08/09/2023	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	18/10/2023	11/10/2023	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	23/10/2023	16/10/2023	Chuvas Intensas	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	01/11/2023	27/10/2023	Chuvas Intensas	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	10/11/2023	09/11/2023	Inundações	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	08/05/2024	01/05/2024	Chuvas Intensas	Hidrológico	4202099	Registro	0	0	0	0	0	0	0	0	0
+Barra Bonita	SC	Sul	11/12/2024	08/12/2024	Inundações	Hidrológico	4202099	Registro	0	0	0	0	7	0	7	0	0
+Barra Velha	SC	Sul	02/01/2020	02/01/2020	Chuvas Intensas	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Barra Velha	SC	Sul	05/01/2020	05/01/2020	Chuvas Intensas	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Barra Velha	SC	Sul	07/02/2020	07/02/2020	Enxurradas	Hidrológico	4202107	Registro	0	0	0	0	10	0	10	0	0
+Barra Velha	SC	Sul	21/01/2021	21/01/2021	Alagamentos	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Barra Velha	SC	Sul	09/06/2021	09/06/2021	Alagamentos	Hidrológico	4202107	Registro	0	0	0	0	5	0	5	0	0
+Barra Velha	SC	Sul	23/02/2022	22/02/2022	Enxurradas	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Barra Velha	SC	Sul	02/12/2022	26/11/2022	Chuvas Intensas	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Barra Velha	SC	Sul	20/12/2022	20/12/2022	Alagamentos	Hidrológico	4202107	Registro	0	0	0	10	0	0	10	0	0
+Barra Velha	SC	Sul	24/03/2023	23/03/2023	Enxurradas	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Barra Velha	SC	Sul	10/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4202107	Registro	0	0	0	3	2	0	5	0	0
+Barra Velha	SC	Sul	10/10/2024	10/10/2024	Inundações	Hidrológico	4202107	Registro	0	0	0	7	2	0	9	0	0
+Barra Velha	SC	Sul	09/12/2024	07/12/2024	Alagamentos	Hidrológico	4202107	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	13/04/2020	13/04/2020	Chuvas Intensas	Hidrológico	4202131	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	10/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4202131	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	29/08/2022	18/08/2022	Enxurradas	Hidrológico	4202131	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	16/09/2022	12/09/2022	Chuvas Intensas	Hidrológico	4202131	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	05/02/2023	03/02/2023	Chuvas Intensas	Hidrológico	4202131	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	13/07/2023	11/07/2023	Enxurradas	Hidrológico	4202131	Registro	0	0	0	0	0	0	0	0	0
+Bela Vista do Toldo	SC	Sul	06/10/2023	04/10/2023	Alagamentos	Hidrológico	4202131	Reconhecido	0	0	0	0	46	0	46	0	12
+Belmonte	SC	Sul	28/03/2022	23/03/2022	Enxurradas	Hidrológico	4202156	Registro	0	0	0	0	0	0	0	0	0
+Benedito Novo	SC	Sul	22/01/2021	22/01/2021	Enxurradas	Hidrológico	4202206	Registro	0	0	0	0	0	0	0	0	0
+Benedito Novo	SC	Sul	20/01/2022	16/01/2022	Chuvas Intensas	Hidrológico	4202206	Registro	0	0	0	0	0	0	0	0	0
+Benedito Novo	SC	Sul	07/03/2022	07/03/2022	Chuvas Intensas	Hidrológico	4202206	Registro	0	0	0	0	0	0	0	0	0
+Benedito Novo	SC	Sul	05/05/2022	04/05/2022	Inundações	Hidrológico	4202206	Registro	0	0	0	0	0	0	0	0	0
+Benedito Novo	SC	Sul	11/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4202206	Registro	0	0	0	0	0	0	0	0	0
+Benedito Novo	SC	Sul	04/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4202206	Reconhecido	0	0	0	12	166	0	178	0	0
+Benedito Novo	SC	Sul	09/01/2023	03/01/2023	Chuvas Intensas	Hidrológico	4202206	Reconhecido	0	0	0	0	27	0	27	2	18
+Benedito Novo	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202206	Registro	0	0	0	0	3	0	3	0	0
+Benedito Novo	SC	Sul	05/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4202206	Reconhecido	0	0	0	0	48	0	48	2	0
+Biguaçu	SC	Sul	11/03/2021	11/03/2021	Chuvas Intensas	Hidrológico	4202305	Reconhecido	0	0	0	0	25	0	25	0	0
+Biguaçu	SC	Sul	10/11/2021	10/11/2021	Inundações	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Biguaçu	SC	Sul	12/01/2022	05/01/2022	Enxurradas	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Biguaçu	SC	Sul	01/03/2022	21/02/2022	Enxurradas	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Biguaçu	SC	Sul	18/05/2022	03/05/2022	Enxurradas	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Biguaçu	SC	Sul	25/08/2022	10/08/2022	Enxurradas	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Biguaçu	SC	Sul	26/10/2022	16/10/2022	Enxurradas	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Biguaçu	SC	Sul	07/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4202305	Reconhecido	0	3	1	85	400	0	489	1	0
+Biguaçu	SC	Sul	08/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4202305	Registro	0	0	0	0	6	0	6	0	6
+Biguaçu	SC	Sul	21/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4202305	Registro	0	0	0	0	6	0	6	1	3
+Biguaçu	SC	Sul	21/11/2024	20/11/2024	Chuvas Intensas	Hidrológico	4202305	Registro	0	0	0	0	0	0	0	0	0
+Blumenau	SC	Sul	29/01/2021	29/01/2021	Chuvas Intensas	Hidrológico	4202404	Reconhecido	0	0	0	0	50	0	50	0	0
+Blumenau	SC	Sul	01/12/2022	26/11/2022	Chuvas Intensas	Hidrológico	4202404	Reconhecido	0	0	0	5	11	0	16	0	0
+Blumenau	SC	Sul	07/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202404	Reconhecido	0	0	0	239	14929	0	15168	9	60
+Blumenau	SC	Sul	20/08/2024	19/05/2024	Inundações	Hidrológico	4202404	Registro	0	0	0	4	350	0	354	0	0
+Bocaina do Sul	SC	Sul	28/12/2021	28/12/2021	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	28/12/2021	28/12/2021	Alagamentos	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	18/01/2022	15/01/2022	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	29/04/2022	24/03/2022	Alagamentos	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	12/05/2022	04/05/2022	Enxurradas	Hidrológico	4202438	Reconhecido	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	29/06/2022	21/06/2022	Enxurradas	Hidrológico	4202438	Registro	0	0	0	4	0	0	4	0	0
+Bocaina do Sul	SC	Sul	17/10/2022	11/10/2022	Alagamentos	Hidrológico	4202438	Reconhecido	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	24/01/2023	20/01/2023	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	01/08/2023	05/04/2023	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	01/08/2023	14/06/2023	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	1
+Bocaina do Sul	SC	Sul	04/08/2023	10/07/2023	Alagamentos	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	1
+Bocaina do Sul	SC	Sul	09/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202438	Reconhecido	0	0	0	0	20	0	20	0	0
+Bocaina do Sul	SC	Sul	27/11/2023	15/11/2023	Chuvas Intensas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	29/01/2024	28/01/2024	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	29/02/2024	21/02/2024	Enxurradas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	11/03/2024	04/03/2024	Alagamentos	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	0	0
+Bocaina do Sul	SC	Sul	17/06/2024	02/05/2024	Chuvas Intensas	Hidrológico	4202438	Registro	0	0	0	0	20	0	20	0	0
+Bocaina do Sul	SC	Sul	28/11/2024	27/11/2024	Chuvas Intensas	Hidrológico	4202438	Registro	0	0	0	0	0	0	0	2	0
+Bom Jardim da Serra	SC	Sul	10/05/2022	05/05/2022	Enxurradas	Hidrológico	4202503	Registro	0	0	0	0	0	0	0	0	0
+Bom Jardim da Serra	SC	Sul	09/06/2022	06/06/2022	Enxurradas	Hidrológico	4202503	Registro	0	0	0	0	0	0	0	0	0
+Bom Jardim da Serra	SC	Sul	06/12/2022	02/12/2022	Chuvas Intensas	Hidrológico	4202503	Registro	0	0	0	0	0	0	0	0	6
+Bom Jardim da Serra	SC	Sul	06/03/2023	05/03/2023	Chuvas Intensas	Hidrológico	4202503	Registro	0	0	0	0	0	0	0	0	2
+Bom Jardim da Serra	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4202503	Reconhecido	0	0	0	0	15	0	15	1	26
+Bom Jardim da Serra	SC	Sul	24/06/2024	31/05/2024	Chuvas Intensas	Hidrológico	4202503	Registro	0	0	0	0	0	0	0	0	0
+Bom Jesus	SC	Sul	10/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4202537	Registro	0	0	0	0	0	0	0	0	0
+Bom Jesus	SC	Sul	11/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4202537	Reconhecido	0	0	0	0	15	0	15	0	0
+Bom Jesus	SC	Sul	20/10/2023	19/10/2023	Chuvas Intensas	Hidrológico	4202537	Registro	0	0	0	0	0	0	0	0	1
+Bom Jesus	SC	Sul	09/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4202537	Reconhecido	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	17/12/2020	17/12/2020	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	01/02/2021	01/02/2021	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	3	0	3	0	0
+Bom Retiro	SC	Sul	15/02/2022	17/09/2021	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	05/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	20/10/2022	12/10/2022	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	31/01/2023	25/01/2023	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	18
+Bom Retiro	SC	Sul	07/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	15
+Bom Retiro	SC	Sul	14/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	14
+Bom Retiro	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	17
+Bom Retiro	SC	Sul	13/11/2023	12/11/2023	Chuvas Intensas	Hidrológico	4202602	Reconhecido	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	26/02/2024	23/02/2024	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	0
+Bom Retiro	SC	Sul	07/12/2024	06/12/2024	Chuvas Intensas	Hidrológico	4202602	Registro	0	0	0	0	0	0	0	0	0
+Bombinhas	SC	Sul	28/12/2020	28/12/2020	Chuvas Intensas	Hidrológico	4202453	Reconhecido	0	0	0	0	9	0	9	2	0
+Botuverá	SC	Sul	13/10/2021	13/10/2021	Chuvas Intensas	Hidrológico	4202701	Reconhecido	0	0	0	5	0	0	5	0	0
+Botuverá	SC	Sul	05/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4202701	Registro	0	0	0	0	0	0	0	0	0
+Botuverá	SC	Sul	02/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4202701	Reconhecido	0	0	0	2	0	0	2	0	0
+Botuverá	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202701	Reconhecido	0	0	0	5	16	0	21	0	5
+Botuverá	SC	Sul	18/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4202701	Reconhecido	0	0	0	6	44	0	50	0	23
+Botuverá	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4202701	Registro	0	0	0	0	0	0	0	0	0
+Botuverá	SC	Sul	22/05/2024	18/05/2024	Chuvas Intensas	Hidrológico	4202701	Registro	0	0	0	0	0	0	0	0	0
+Braço do Norte	SC	Sul	25/03/2022	18/03/2022	Enxurradas	Hidrológico	4202800	Registro	0	0	0	0	0	0	0	0	0
+Braço do Norte	SC	Sul	05/05/2022	04/05/2022	Enxurradas	Hidrológico	4202800	Reconhecido	0	0	0	28	197	0	225	0	0
+Braço do Norte	SC	Sul	11/08/2022	10/08/2022	Alagamentos	Hidrológico	4202800	Registro	0	0	0	0	4	0	4	0	0
+Braço do Norte	SC	Sul	04/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4202800	Reconhecido	0	0	0	0	266	0	266	0	0
+Braço do Norte	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4202800	Registro	0	0	0	0	0	0	0	0	0
+Braço do Norte	SC	Sul	16/07/2024	06/07/2024	Chuvas Intensas	Hidrológico	4202800	Registro	0	0	0	0	8	0	8	0	0
+Braço do Trombudo	SC	Sul	04/01/2023	03/01/2023	Enxurradas	Hidrológico	4202859	Registro	0	0	0	0	0	0	0	0	0
+Braço do Trombudo	SC	Sul	12/01/2023	10/01/2023	Chuvas Intensas	Hidrológico	4202859	Registro	0	0	0	0	0	0	0	0	0
+Braço do Trombudo	SC	Sul	08/02/2023	02/02/2023	Enxurradas	Hidrológico	4202859	Registro	0	0	0	0	10	0	10	0	0
+Braço do Trombudo	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202859	Reconhecido	0	0	0	0	12	0	12	0	4
+Braço do Trombudo	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4202859	Reconhecido	0	1	1	80	233	0	315	2	125
+Brunópolis	SC	Sul	20/12/2021	20/12/2021	Alagamentos	Hidrológico	4202875	Registro	0	0	0	0	0	0	0	0	0
+Brunópolis	SC	Sul	14/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4202875	Registro	0	0	0	0	5	0	5	0	0
+Brunópolis	SC	Sul	09/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202875	Reconhecido	0	0	0	0	22	0	22	0	8
+Brusque	SC	Sul	13/01/2020	13/01/2020	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	1	0	8	124	0	133	0	0
+Brusque	SC	Sul	27/02/2020	27/02/2020	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	4	88	0	92	0	0
+Brusque	SC	Sul	18/03/2020	18/03/2020	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	15/12/2020	15/12/2020	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	0	0	0	18	0	18	0	0
+Brusque	SC	Sul	22/01/2021	22/01/2021	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	3	0	3	0	0
+Brusque	SC	Sul	08/03/2021	08/03/2021	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	0	0	0	4	0	4	0	0
+Brusque	SC	Sul	09/06/2021	09/06/2021	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	0	0	0	184	0	184	0	2
+Brusque	SC	Sul	05/01/2022	05/01/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	21/02/2022	21/02/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	11/03/2022	11/03/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	6	0	6	0	0
+Brusque	SC	Sul	03/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	06/06/2022	02/06/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	11/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	16/10/2022	16/10/2022	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	01/12/2022	28/11/2022	Chuvas Intensas	Hidrológico	4202909	Reconhecido	2	6	0	30	226	0	264	2	0
+Brusque	SC	Sul	03/01/2023	03/01/2023	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	20
+Brusque	SC	Sul	29/01/2023	29/01/2023	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	6
+Brusque	SC	Sul	09/02/2023	09/02/2023	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	2
+Brusque	SC	Sul	07/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	0	0	4	11	0	15	2	179
+Brusque	SC	Sul	30/10/2023	28/10/2023	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	3
+Brusque	SC	Sul	18/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	0	0	38	479	0	517	2	967
+Brusque	SC	Sul	28/11/2023	28/11/2023	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	54	0	54	0	17
+Brusque	SC	Sul	18/02/2024	18/02/2024	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	0	0
+Brusque	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4202909	Registro	0	0	0	0	0	0	0	1	0
+Brusque	SC	Sul	19/05/2024	19/05/2024	Chuvas Intensas	Hidrológico	4202909	Reconhecido	0	0	0	0	123	0	123	0	0
+Caçador	SC	Sul	13/10/2022	11/10/2022	Inundações	Hidrológico	4203006	Registro	0	0	0	0	180	0	180	0	0
+Caçador	SC	Sul	16/10/2023	12/10/2023	Inundações	Hidrológico	4203006	Registro	0	0	0	0	359	0	359	0	0
+Caibi	SC	Sul	24/03/2022	24/03/2022	Enxurradas	Hidrológico	4203105	Registro	0	0	0	0	0	0	0	0	0
+Caibi	SC	Sul	30/05/2022	29/05/2022	Enxurradas	Hidrológico	4203105	Registro	0	0	0	0	0	0	0	0	0
+Caibi	SC	Sul	24/10/2022	21/10/2022	Enxurradas	Hidrológico	4203105	Registro	0	0	0	0	0	0	0	0	0
+Caibi	SC	Sul	11/11/2024	11/10/2024	Enxurradas	Hidrológico	4203105	Registro	0	0	0	0	0	0	0	0	0
+Calmon	SC	Sul	07/12/2021	07/12/2021	Chuvas Intensas	Hidrológico	4203154	Registro	0	0	0	0	0	0	0	0	0
+Camboriú	SC	Sul	19/02/2020	19/02/2020	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	20	0	20	1	0
+Camboriú	SC	Sul	31/03/2021	31/03/2021	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	0	0
+Camboriú	SC	Sul	09/06/2021	09/06/2021	Inundações	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	0	0
+Camboriú	SC	Sul	10/06/2021	10/06/2021	Chuvas Intensas	Hidrológico	4203204	Reconhecido	0	0	0	40	543	0	583	0	0
+Camboriú	SC	Sul	05/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	0	0
+Camboriú	SC	Sul	02/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	0	0
+Camboriú	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4203204	Reconhecido	2	1	0	230	2000	0	2233	13	0
+Camboriú	SC	Sul	17/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	9	0	9	0	0
+Camboriú	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	1	0
+Camboriú	SC	Sul	30/11/2023	28/11/2023	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	0	0
+Camboriú	SC	Sul	03/01/2024	03/01/2024	Chuvas Intensas	Hidrológico	4203204	Registro	0	0	0	0	0	0	0	0	0
+Campo Alegre	SC	Sul	23/11/2021	23/11/2021	Chuvas Intensas	Hidrológico	4203303	Registro	0	0	0	0	0	0	0	0	0
+Campo Alegre	SC	Sul	07/02/2022	16/01/2022	Alagamentos	Hidrológico	4203303	Registro	0	0	0	0	0	0	0	0	0
+Campo Alegre	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4203303	Registro	0	0	0	0	0	0	0	0	0
+Campo Alegre	SC	Sul	30/11/2022	27/11/2022	Chuvas Intensas	Hidrológico	4203303	Reconhecido	0	0	0	29	100	0	129	0	0
+Campo Alegre	SC	Sul	06/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4203303	Registro	0	0	0	0	0	0	0	0	0
+Campo Alegre	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4203303	Reconhecido	0	0	0	16	29	0	45	0	3
+Campo Belo do Sul	SC	Sul	03/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4203402	Registro	0	0	0	0	7	0	7	0	0
+Campo Belo do Sul	SC	Sul	23/06/2022	23/06/2022	Chuvas Intensas	Hidrológico	4203402	Registro	0	0	0	0	4	0	4	0	0
+Campo Belo do Sul	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4203402	Registro	1	0	0	0	2	0	4	0	11
+Campo Belo do Sul	SC	Sul	29/11/2023	21/11/2023	Chuvas Intensas	Hidrológico	4203402	Registro	0	0	0	0	0	0	0	0	0
+Campo Belo do Sul	SC	Sul	04/06/2024	04/06/2024	Chuvas Intensas	Hidrológico	4203402	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	30/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	07/06/2022	28/05/2022	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	31/05/2022	29/05/2022	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	18/08/2022	17/08/2022	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	07/10/2022	06/10/2022	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	19/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4203501	Reconhecido	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	12/07/2023	11/07/2023	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	15/08/2023	12/08/2023	Chuvas Intensas	Hidrológico	4203501	Registro	0	0	0	0	0	0	0	0	15
+Campo Erê	SC	Sul	15/10/2023	12/10/2023	Chuvas Intensas	Hidrológico	4203501	Reconhecido	0	0	0	0	0	0	0	0	0
+Campo Erê	SC	Sul	30/10/2023	28/10/2023	Chuvas Intensas	Hidrológico	4203501	Reconhecido	0	0	0	0	0	0	0	0	0
+Campos Novos	SC	Sul	12/02/2021	12/02/2021	Enxurradas	Hidrológico	4203600	Registro	0	0	0	0	0	0	0	0	0
+Campos Novos	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4203600	Registro	0	0	0	0	12	0	12	0	0
+Campos Novos	SC	Sul	01/07/2022	22/06/2022	Chuvas Intensas	Hidrológico	4203600	Reconhecido	0	0	0	0	12	0	12	0	0
+Campos Novos	SC	Sul	24/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4203600	Registro	0	0	0	0	4	0	4	0	0
+Campos Novos	SC	Sul	13/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4203600	Reconhecido	0	0	0	2	3	0	5	0	764
+Canelinha	SC	Sul	27/01/2020	27/01/2020	Enxurradas	Hidrológico	4203709	Registro	0	0	0	0	0	0	0	0	0
+Canelinha	SC	Sul	10/02/2020	10/02/2020	Enxurradas	Hidrológico	4203709	Registro	0	0	0	16	16	0	32	0	0
+Canelinha	SC	Sul	24/12/2020	24/12/2020	Enxurradas	Hidrológico	4203709	Registro	0	0	0	0	0	0	0	0	0
+Canelinha	SC	Sul	09/02/2021	09/02/2021	Chuvas Intensas	Hidrológico	4203709	Registro	0	0	0	0	6	0	6	0	0
+Canelinha	SC	Sul	09/03/2021	09/03/2021	Chuvas Intensas	Hidrológico	4203709	Registro	0	0	0	0	0	0	0	0	0
+Canelinha	SC	Sul	25/06/2021	25/06/2021	Chuvas Intensas	Hidrológico	4203709	Reconhecido	0	0	0	14	285	0	299	0	0
+Canelinha	SC	Sul	06/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4203709	Registro	0	0	0	0	0	0	0	0	0
+Canelinha	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4203709	Reconhecido	0	0	0	0	46	0	46	0	0
+Canelinha	SC	Sul	24/10/2022	16/10/2022	Chuvas Intensas	Hidrológico	4203709	Registro	0	0	0	0	0	0	0	0	0
+Canelinha	SC	Sul	30/11/2022	30/11/2022	Chuvas Intensas	Hidrológico	4203709	Reconhecido	0	0	0	119	2810	0	2929	1	0
+Canelinha	SC	Sul	18/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4203709	Reconhecido	0	0	0	52	45	0	97	0	927
+Canelinha	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4203709	Reconhecido	0	0	0	38	12	0	50	0	0
+Canoinhas	SC	Sul	15/06/2020	15/06/2020	Enxurradas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	21/03/2022	18/03/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	09/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	01/06/2022	29/05/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	19/08/2022	17/08/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	13/09/2022	12/09/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	20/10/2022	20/10/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	01/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	19/01/2023	18/01/2023	Enxurradas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	13/07/2023	12/07/2023	Enxurradas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	11/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4203808	Reconhecido	0	0	0	109	1479	0	1588	0	205
+Canoinhas	SC	Sul	13/10/2023	12/10/2023	Inundações	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	24/11/2023	23/11/2023	Enxurradas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	30/11/2023	28/11/2023	Enxurradas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	25/10/2024	24/10/2024	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Canoinhas	SC	Sul	09/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4203808	Registro	0	0	0	0	0	0	0	0	0
+Capão Alto	SC	Sul	28/03/2023	24/03/2023	Alagamentos	Hidrológico	4203253	Registro	0	0	0	0	0	0	0	0	0
+Capão Alto	SC	Sul	25/07/2023	13/07/2023	Alagamentos	Hidrológico	4203253	Registro	0	0	0	0	0	0	0	0	0
+Capão Alto	SC	Sul	10/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4203253	Registro	0	4	0	0	0	0	4	0	0
+Capão Alto	SC	Sul	27/06/2024	15/05/2024	Chuvas Intensas	Hidrológico	4203253	Registro	0	0	0	0	0	0	0	0	0
+Capinzal	SC	Sul	06/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4203907	Registro	0	0	0	0	0	0	0	0	0
+Capinzal	SC	Sul	19/07/2022	20/06/2022	Chuvas Intensas	Hidrológico	4203907	Registro	0	0	0	0	0	0	0	0	0
+Capinzal	SC	Sul	17/10/2022	07/10/2022	Chuvas Intensas	Hidrológico	4203907	Registro	0	0	0	0	0	0	0	0	0
+Capinzal	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4203907	Reconhecido	0	0	0	0	5	0	5	0	4
+Capinzal	SC	Sul	07/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4203907	Reconhecido	0	0	0	31	19	0	50	0	0
+Capivari de Baixo	SC	Sul	01/07/2021	01/07/2021	Alagamentos	Hidrológico	4203956	Registro	0	0	0	0	0	0	0	0	0
+Capivari de Baixo	SC	Sul	05/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4203956	Reconhecido	0	0	0	6	0	0	6	0	0
+Capivari de Baixo	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4203956	Registro	0	0	0	0	71	0	71	0	0
+Catanduvas	SC	Sul	11/08/2022	04/05/2022	Chuvas Intensas	Hidrológico	4204004	Registro	0	0	0	0	0	0	0	0	0
+Catanduvas	SC	Sul	10/03/2023	08/03/2023	Chuvas Intensas	Hidrológico	4204004	Registro	0	0	0	0	0	0	0	0	0
+Catanduvas	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4204004	Registro	0	0	0	0	0	0	0	0	0
+Catanduvas	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4204004	Registro	0	0	0	0	0	0	0	0	30
+Celso Ramos	SC	Sul	16/05/2022	03/05/2022	Enxurradas	Hidrológico	4204152	Registro	0	0	0	0	0	0	0	0	0
+Celso Ramos	SC	Sul	17/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4204152	Registro	0	0	0	0	0	0	0	0	10
+Celso Ramos	SC	Sul	17/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4204152	Registro	0	0	0	0	48	0	48	0	12
+Celso Ramos	SC	Sul	06/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4204152	Registro	0	0	0	0	0	0	0	0	0
+Cerro Negro	SC	Sul	04/07/2022	23/06/2022	Enxurradas	Hidrológico	4204178	Registro	0	0	0	0	0	0	0	0	0
+Cerro Negro	SC	Sul	16/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4204178	Registro	0	0	0	0	0	0	0	0	0
+Cerro Negro	SC	Sul	17/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4204178	Registro	0	0	0	0	0	0	0	0	0
+Cerro Negro	SC	Sul	06/12/2023	17/11/2023	Chuvas Intensas	Hidrológico	4204178	Registro	0	0	0	0	0	0	0	0	0
+Chapadão do Lageado	SC	Sul	16/02/2021	16/02/2021	Enxurradas	Hidrológico	4204194	Registro	0	0	0	0	0	0	0	0	0
+Chapadão do Lageado	SC	Sul	16/01/2023	12/01/2023	Enxurradas	Hidrológico	4204194	Registro	0	0	0	0	0	0	0	0	0
+Chapadão do Lageado	SC	Sul	09/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4204194	Reconhecido	0	0	0	0	0	0	0	0	0
+Chapadão do Lageado	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4204194	Registro	0	0	0	0	52	0	52	0	2
+Chapadão do Lageado	SC	Sul	30/01/2024	28/01/2024	Enxurradas	Hidrológico	4204194	Registro	0	0	0	0	188	0	188	0	0
+Chapecó	SC	Sul	30/10/2021	30/10/2021	Chuvas Intensas	Hidrológico	4204202	Registro	0	2	0	0	0	0	2	0	0
+Chapecó	SC	Sul	13/10/2022	11/10/2022	Alagamentos	Hidrológico	4204202	Registro	0	0	0	0	20	0	20	0	0
+Chapecó	SC	Sul	08/11/2024	07/11/2024	Alagamentos	Hidrológico	4204202	Registro	0	0	0	0	0	0	0	0	0
+Cocal do Sul	SC	Sul	22/01/2021	22/01/2021	Chuvas Intensas	Hidrológico	4204251	Registro	0	0	0	0	0	0	0	0	0
+Cocal do Sul	SC	Sul	05/04/2021	05/04/2021	Chuvas Intensas	Hidrológico	4204251	Registro	0	0	0	0	0	0	0	0	0
+Cocal do Sul	SC	Sul	11/06/2021	11/06/2021	Chuvas Intensas	Hidrológico	4204251	Registro	0	0	0	0	0	0	0	0	0
+Cocal do Sul	SC	Sul	19/01/2022	16/01/2022	Chuvas Intensas	Hidrológico	4204251	Registro	0	0	0	0	3	0	3	0	0
+Cocal do Sul	SC	Sul	18/05/2022	05/05/2022	Chuvas Intensas	Hidrológico	4204251	Registro	0	0	0	0	0	0	0	0	0
+Cocal do Sul	SC	Sul	19/03/2024	16/03/2024	Alagamentos	Hidrológico	4204251	Registro	0	2	0	0	8	0	10	0	0
+Concórdia	SC	Sul	24/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4204301	Registro	0	0	0	0	0	0	0	0	0
+Concórdia	SC	Sul	11/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4204301	Reconhecido	0	0	0	0	12	0	12	0	20
+Concórdia	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4204301	Reconhecido	0	0	0	0	30	0	30	2	63
+Coronel Freitas	SC	Sul	11/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4204400	Registro	0	0	0	0	0	0	0	0	0
+Coronel Freitas	SC	Sul	17/10/2022	11/10/2022	Inundações	Hidrológico	4204400	Registro	0	0	0	0	12	0	12	1	49
+Coronel Freitas	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4204400	Registro	0	0	0	2	28	0	30	0	16
+Coronel Martins	SC	Sul	04/04/2022	24/03/2022	Chuvas Intensas	Hidrológico	4204459	Registro	0	0	0	0	0	0	0	0	0
+Coronel Martins	SC	Sul	12/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4204459	Registro	0	0	0	0	0	0	0	0	0
+Coronel Martins	SC	Sul	11/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4204459	Reconhecido	0	0	0	0	10	0	10	0	0
+Correia Pinto	SC	Sul	20/10/2022	11/10/2022	Alagamentos	Hidrológico	4204558	Registro	0	0	0	0	0	0	3	0	0
+Correia Pinto	SC	Sul	12/09/2023	12/07/2023	Alagamentos	Hidrológico	4204558	Registro	0	0	0	0	0	0	0	0	0
+Correia Pinto	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4204558	Reconhecido	0	0	0	57	75	0	132	0	33
+Correia Pinto	SC	Sul	21/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4204558	Registro	0	0	0	76	422	0	498	0	185
+Correia Pinto	SC	Sul	14/06/2024	27/05/2024	Chuvas Intensas	Hidrológico	4204558	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	18/08/2020	18/08/2020	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	15/12/2020	15/12/2020	Enxurradas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	15/12/2021	15/12/2021	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	17/06/2022	09/06/2022	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	13/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	15/09/2022	10/09/2022	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	28/11/2022	19/11/2022	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	29/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	100	0	100	0	10
+Corupá	SC	Sul	05/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4204509	Reconhecido	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	01/02/2023	01/02/2023	Chuvas Intensas	Hidrológico	4204509	Reconhecido	0	0	0	0	30	0	30	0	100
+Corupá	SC	Sul	06/03/2023	03/03/2023	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4204509	Reconhecido	0	0	0	0	5	0	5	0	0
+Corupá	SC	Sul	17/01/2024	16/01/2024	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	04/03/2024	24/02/2024	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Corupá	SC	Sul	08/11/2024	07/11/2024	Chuvas Intensas	Hidrológico	4204509	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	02/12/2020	02/12/2020	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	02/12/2020	02/12/2020	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	08/12/2020	08/12/2020	Inundações	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	09/02/2021	09/02/2021	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	17/06/2021	17/06/2021	Alagamentos	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	09/12/2021	09/12/2021	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	10/01/2022	05/01/2022	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	19/01/2022	16/01/2022	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	18/03/2022	06/03/2022	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	18/03/2022	07/03/2022	Chuvas Intensas	Hidrológico	4204608	Registro	0	0	0	0	0	0	0	0	0
+Criciúma	SC	Sul	11/08/2022	08/08/2022	Chuvas Intensas	Hidrológico	4204608	Reconhecido	0	0	0	45	135	0	180	5	0
+Cunha Porã	SC	Sul	21/06/2020	21/06/2020	Enxurradas	Hidrológico	4204707	Registro	0	0	0	0	1	0	1	0	0
+Cunha Porã	SC	Sul	21/12/2020	21/12/2020	Enxurradas	Hidrológico	4204707	Registro	0	0	0	0	0	0	0	0	0
+Cunha Porã	SC	Sul	03/11/2023	01/11/2023	Chuvas Intensas	Hidrológico	4204707	Reconhecido	0	0	0	0	4	0	4	0	3
+Cunha Porã	SC	Sul	19/03/2024	15/03/2024	Enxurradas	Hidrológico	4204707	Registro	1	0	0	0	0	0	1	0	0
+Cunhataí	SC	Sul	09/06/2022	29/05/2022	Enxurradas	Hidrológico	4204756	Registro	0	0	0	0	0	0	0	0	0
+Curitibanos	SC	Sul	03/05/2022	01/05/2022	Chuvas Intensas	Hidrológico	4204806	Registro	0	0	0	0	0	0	0	0	0
+Curitibanos	SC	Sul	03/05/2022	03/05/2022	Inundações	Hidrológico	4204806	Reconhecido	0	0	0	0	10	0	10	0	0
+Curitibanos	SC	Sul	22/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4204806	Registro	0	0	0	0	0	0	0	0	0
+Curitibanos	SC	Sul	20/10/2022	11/10/2022	Inundações	Hidrológico	4204806	Registro	0	0	0	0	0	0	0	0	0
+Curitibanos	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4204806	Reconhecido	0	0	0	0	280	0	280	0	70
+Curitibanos	SC	Sul	22/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4204806	Registro	0	0	0	0	212	0	212	13	40
+Dionísio Cerqueira	SC	Sul	22/10/2021	22/10/2021	Enxurradas	Hidrológico	4205001	Registro	0	0	0	0	0	0	0	0	0
+Dionísio Cerqueira	SC	Sul	29/03/2022	24/03/2022	Enxurradas	Hidrológico	4205001	Registro	0	0	0	0	0	0	0	0	0
+Dionísio Cerqueira	SC	Sul	23/08/2022	18/08/2022	Enxurradas	Hidrológico	4205001	Registro	0	0	0	0	0	0	0	0	0
+Dionísio Cerqueira	SC	Sul	13/10/2022	11/10/2022	Enxurradas	Hidrológico	4205001	Registro	0	0	0	0	0	0	0	0	0
+Dionísio Cerqueira	SC	Sul	30/10/2023	27/10/2023	Enxurradas	Hidrológico	4205001	Reconhecido	0	0	0	0	4	0	4	0	2
+Dionísio Cerqueira	SC	Sul	29/02/2024	28/02/2024	Chuvas Intensas	Hidrológico	4205001	Registro	0	0	0	0	0	0	0	0	0
+Dionísio Cerqueira	SC	Sul	07/12/2024	07/12/2024	Enxurradas	Hidrológico	4205001	Reconhecido	0	0	0	0	1	0	1	0	0
+Dona Emma	SC	Sul	01/07/2021	01/07/2021	Chuvas Intensas	Hidrológico	4205100	Registro	0	0	0	0	0	0	0	0	0
+Dona Emma	SC	Sul	21/09/2021	21/09/2021	Alagamentos	Hidrológico	4205100	Registro	0	0	0	0	0	0	0	0	0
+Dona Emma	SC	Sul	05/05/2022	03/05/2022	Alagamentos	Hidrológico	4205100	Registro	0	0	0	0	2	0	2	0	0
+Dona Emma	SC	Sul	19/08/2022	10/08/2022	Enxurradas	Hidrológico	4205100	Registro	0	0	0	0	0	0	0	0	0
+Dona Emma	SC	Sul	22/08/2022	18/08/2022	Enxurradas	Hidrológico	4205100	Registro	0	0	0	0	0	0	0	0	0
+Dona Emma	SC	Sul	03/02/2023	02/02/2023	Enxurradas	Hidrológico	4205100	Reconhecido	0	0	0	0	217	0	217	30	77
+Dona Emma	SC	Sul	13/07/2023	11/07/2023	Inundações	Hidrológico	4205100	Registro	0	0	0	0	0	0	0	0	0
+Dona Emma	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4205100	Reconhecido	0	0	0	0	61	0	61	0	0
+Dona Emma	SC	Sul	17/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4205100	Registro	0	0	0	0	20	0	20	0	0
+Dona Emma	SC	Sul	03/06/2024	18/05/2024	Alagamentos	Hidrológico	4205100	Registro	0	0	0	0	0	0	0	0	0
+Doutor Pedrinho	SC	Sul	25/01/2021	25/01/2021	Alagamentos	Hidrológico	4205159	Registro	0	0	0	0	60	0	60	0	0
+Doutor Pedrinho	SC	Sul	05/05/2022	03/05/2022	Alagamentos	Hidrológico	4205159	Registro	0	0	0	0	15	0	15	0	0
+Doutor Pedrinho	SC	Sul	22/08/2022	10/08/2022	Alagamentos	Hidrológico	4205159	Registro	0	0	0	0	0	0	0	0	0
+Doutor Pedrinho	SC	Sul	28/11/2022	27/11/2022	Inundações	Hidrológico	4205159	Registro	0	0	0	0	0	0	0	0	0
+Doutor Pedrinho	SC	Sul	05/12/2022	05/12/2022	Chuvas Intensas	Hidrológico	4205159	Reconhecido	0	0	0	0	24	0	24	0	0
+Doutor Pedrinho	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4205159	Reconhecido	0	0	0	0	35	0	35	0	3
+Doutor Pedrinho	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4205159	Reconhecido	0	0	0	0	65	0	65	0	0
+Entre Rios	SC	Sul	05/05/2022	03/05/2022	Alagamentos	Hidrológico	4205175	Registro	0	0	0	0	0	0	0	0	0
+Entre Rios	SC	Sul	17/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4205175	Reconhecido	0	0	0	0	4	0	4	0	0
+Ermo	SC	Sul	12/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4205191	Registro	0	0	0	0	0	0	0	0	0
+Ermo	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4205191	Registro	0	0	0	0	0	0	0	0	0
+Ermo	SC	Sul	16/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4205191	Registro	0	0	0	15	0	0	15	0	0
+Erval Velho	SC	Sul	22/10/2021	22/10/2021	Enxurradas	Hidrológico	4205209	Registro	0	0	0	0	0	0	0	0	0
+Erval Velho	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4205209	Reconhecido	0	0	0	3	34	0	37	9	50
+Faxinal dos Guedes	SC	Sul	18/10/2022	10/10/2022	Alagamentos	Hidrológico	4205308	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	18/05/2022	23/03/2022	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	18/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	11/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	11/07/2023	11/07/2023	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	06/11/2023	28/10/2023	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Flor do Sertão	SC	Sul	09/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4205357	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	28/01/2020	28/01/2020	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	27/03/2020	27/03/2020	Alagamentos	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	28/12/2020	28/12/2020	Alagamentos	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	22/01/2021	22/01/2021	Chuvas Intensas	Hidrológico	4205407	Reconhecido	2	26	66	16	900	0	1010	0	0
+Florianópolis	SC	Sul	09/06/2021	09/06/2021	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	05/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	12/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	21	0	21	0	0
+Florianópolis	SC	Sul	01/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4205407	Reconhecido	0	0	0	26	1260	0	1286	0	0
+Florianópolis	SC	Sul	19/12/2022	19/12/2022	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	11/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	10
+Florianópolis	SC	Sul	09/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	28/11/2023	28/11/2023	Chuvas Intensas	Hidrológico	4205407	Registro	0	1	0	48	543	0	592	2	15
+Florianópolis	SC	Sul	14/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Florianópolis	SC	Sul	28/05/2024	27/05/2024	Alagamentos	Hidrológico	4205407	Registro	0	0	0	0	0	0	0	0	0
+Forquilhinha	SC	Sul	29/06/2021	29/06/2021	Chuvas Intensas	Hidrológico	4205456	Registro	0	0	0	0	0	0	0	0	0
+Forquilhinha	SC	Sul	17/01/2022	16/01/2022	Chuvas Intensas	Hidrológico	4205456	Registro	0	0	0	0	0	0	0	0	0
+Forquilhinha	SC	Sul	08/03/2022	06/03/2022	Chuvas Intensas	Hidrológico	4205456	Registro	0	0	0	0	0	0	0	0	0
+Forquilhinha	SC	Sul	04/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4205456	Reconhecido	0	0	0	0	150	0	150	0	0
+Forquilhinha	SC	Sul	10/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4205456	Reconhecido	0	0	0	173	332	0	505	1	0
+Forquilhinha	SC	Sul	22/02/2023	20/02/2023	Chuvas Intensas	Hidrológico	4205456	Registro	0	0	0	0	0	0	0	0	0
+Forquilhinha	SC	Sul	19/06/2023	15/06/2023	Alagamentos	Hidrológico	4205456	Registro	0	0	0	0	5	0	5	0	32
+Forquilhinha	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4205456	Reconhecido	0	0	0	30	250	0	280	0	0
+Fraiburgo	SC	Sul	18/11/2021	18/11/2021	Chuvas Intensas	Hidrológico	4205506	Registro	0	0	0	0	0	0	0	0	0
+Fraiburgo	SC	Sul	06/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4205506	Registro	0	0	0	0	0	0	0	0	0
+Fraiburgo	SC	Sul	20/10/2022	11/10/2022	Alagamentos	Hidrológico	4205506	Registro	0	0	0	0	0	0	0	0	0
+Fraiburgo	SC	Sul	10/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4205506	Registro	0	0	0	0	8	0	8	0	0
+Fraiburgo	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4205506	Registro	0	0	0	0	0	0	0	0	0
+Frei Rogério	SC	Sul	16/05/2022	25/04/2022	Enxurradas	Hidrológico	4205555	Registro	0	0	0	0	0	0	0	0	0
+Frei Rogério	SC	Sul	20/10/2022	11/10/2022	Enxurradas	Hidrológico	4205555	Registro	0	0	0	0	0	0	0	0	0
+Frei Rogério	SC	Sul	11/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4205555	Reconhecido	0	0	0	23	2	0	25	0	0
+Frei Rogério	SC	Sul	04/10/2023	04/10/2023	Alagamentos	Hidrológico	4205555	Registro	0	0	0	4	10	0	14	0	0
+Galvão	SC	Sul	17/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4205605	Reconhecido	0	0	0	10	20	0	30	0	0
+Garopaba	SC	Sul	29/01/2021	29/01/2021	Chuvas Intensas	Hidrológico	4205704	Registro	0	0	0	0	0	0	0	0	0
+Garopaba	SC	Sul	13/10/2021	13/10/2021	Alagamentos	Hidrológico	4205704	Registro	0	0	0	0	0	0	0	0	0
+Garopaba	SC	Sul	06/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4205704	Registro	0	0	0	0	0	0	0	0	0
+Garopaba	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4205704	Reconhecido	0	0	0	0	16	0	16	0	7
+Garopaba	SC	Sul	15/04/2024	13/04/2024	Chuvas Intensas	Hidrológico	4205704	Registro	0	0	0	0	20	0	20	22	0
+Garuva	SC	Sul	04/02/2020	04/02/2020	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	3	12	0	15	0	0
+Garuva	SC	Sul	22/01/2021	22/01/2021	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	0	0	0	0	0
+Garuva	SC	Sul	03/03/2021	03/03/2021	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	8	0	8	0	0
+Garuva	SC	Sul	18/09/2021	18/09/2021	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	0	0	0	0	0
+Garuva	SC	Sul	01/11/2021	01/11/2021	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	0	0	0	0	0
+Garuva	SC	Sul	04/01/2022	04/01/2022	Enxurradas	Hidrológico	4205803	Registro	0	0	0	0	0	0	0	0	0
+Garuva	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	3	0	3	0	0
+Garuva	SC	Sul	30/11/2022	29/11/2022	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	25	0	25	1	0
+Garuva	SC	Sul	01/03/2024	25/02/2024	Chuvas Intensas	Hidrológico	4205803	Registro	0	0	0	0	0	0	0	0	0
+Gaspar	SC	Sul	10/02/2020	10/02/2020	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	0	40	0	40	0	0
+Gaspar	SC	Sul	25/01/2021	25/01/2021	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	0	0	0	0	0	0
+Gaspar	SC	Sul	23/02/2022	22/02/2022	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	11	0	0	11	0	0
+Gaspar	SC	Sul	07/03/2022	06/03/2022	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	17	13	0	30	0	0
+Gaspar	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	0	185	0	185	0	0
+Gaspar	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	0	0	0	0	0	0
+Gaspar	SC	Sul	17/10/2022	16/10/2022	Chuvas Intensas	Hidrológico	4205902	Registro	0	0	0	0	0	0	0	0	0
+Gaspar	SC	Sul	28/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4205902	Registro	0	1	0	0	18	0	19	0	0
+Gaspar	SC	Sul	05/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4205902	Reconhecido	0	0	0	0	0	0	0	0	0
+Gaspar	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4205902	Reconhecido	0	0	0	15	1799	0	1814	0	0
+Gaspar	SC	Sul	06/10/2023	03/10/2023	Chuvas Intensas	Hidrológico	4205902	Reconhecido	0	0	0	74	126	0	200	0	72
+Governador Celso Ramos	SC	Sul	05/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4206009	Reconhecido	0	0	0	0	0	0	0	0	0
+Governador Celso Ramos	SC	Sul	02/01/2023	20/12/2022	Chuvas Intensas	Hidrológico	4206009	Reconhecido	0	0	0	0	0	0	0	0	0
+Governador Celso Ramos	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4206009	Registro	0	0	0	0	0	0	0	0	0
+Grão Pará	SC	Sul	05/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4206108	Reconhecido	0	0	0	20	98	0	118	0	0
+Grão Pará	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4206108	Reconhecido	0	0	0	0	0	0	0	0	0
+Gravatal	SC	Sul	25/06/2021	25/06/2021	Chuvas Intensas	Hidrológico	4206207	Registro	0	0	0	0	0	0	0	0	0
+Gravatal	SC	Sul	06/05/2022	04/05/2022	Alagamentos	Hidrológico	4206207	Reconhecido	0	0	11	21	59	0	91	4	0
+Gravatal	SC	Sul	03/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4206207	Reconhecido	0	0	0	42	64	0	106	0	0
+Gravatal	SC	Sul	05/05/2023	22/03/2023	Enxurradas	Hidrológico	4206207	Registro	0	0	0	0	0	0	0	0	0
+Guabiruba	SC	Sul	25/01/2021	25/01/2021	Chuvas Intensas	Hidrológico	4206306	Reconhecido	0	0	0	51	58	0	109	0	0
+Guabiruba	SC	Sul	12/10/2021	12/10/2021	Chuvas Intensas	Hidrológico	4206306	Registro	0	0	0	0	30	0	30	0	0
+Guaraciaba	SC	Sul	17/11/2021	17/11/2021	Chuvas Intensas	Hidrológico	4206405	Registro	0	0	0	0	0	0	0	0	0
+Guaraciaba	SC	Sul	01/04/2022	24/03/2022	Chuvas Intensas	Hidrológico	4206405	Registro	0	0	0	0	0	0	0	0	0
+Guaraciaba	SC	Sul	07/11/2023	27/10/2023	Chuvas Intensas	Hidrológico	4206405	Registro	0	0	0	0	0	0	0	0	0
+Guaraciaba	SC	Sul	12/12/2023	11/12/2023	Chuvas Intensas	Hidrológico	4206405	Registro	0	0	0	0	0	0	0	0	0
+Guaraciaba	SC	Sul	09/12/2024	07/12/2024	Enxurradas	Hidrológico	4206405	Registro	0	0	0	0	0	0	0	0	0
+Guaramirim	SC	Sul	06/02/2020	06/02/2020	Chuvas Intensas	Hidrológico	4206504	Reconhecido	0	0	0	6	26	0	32	0	0
+Guaramirim	SC	Sul	10/03/2022	21/02/2022	Enxurradas	Hidrológico	4206504	Registro	0	0	0	0	0	0	0	0	0
+Guaramirim	SC	Sul	05/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4206504	Reconhecido	0	0	0	0	0	0	0	0	0
+Guatambú	SC	Sul	21/10/2021	21/10/2021	Enxurradas	Hidrológico	4206652	Registro	0	0	0	0	0	0	0	0	0
+Guatambú	SC	Sul	19/12/2023	18/12/2023	Alagamentos	Hidrológico	4206652	Registro	0	0	5	0	0	0	5	0	19
+Guatambú	SC	Sul	12/02/2024	09/02/2024	Chuvas Intensas	Hidrológico	4206652	Registro	0	0	0	0	4	0	4	0	0
+Herval D`Oeste	SC	Sul	13/10/2022	11/10/2022	Inundações	Hidrológico	4206702	Registro	0	0	0	18	0	0	18	0	0
+Herval D`Oeste	SC	Sul	24/07/2023	11/07/2023	Chuvas Intensas	Hidrológico	4206702	Registro	0	0	0	0	0	0	0	0	3
+Herval D`Oeste	SC	Sul	10/10/2023	09/10/2023	Chuvas Intensas	Hidrológico	4206702	Registro	0	0	0	0	0	0	0	0	0
+Herval D`Oeste	SC	Sul	17/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4206702	Registro	0	0	0	0	9	0	9	0	0
+Herval dOeste	SC	Sul	15/10/2021	15/10/2021	Chuvas Intensas	Hidrológico	4206702	Registro	0	0	0	0	6	0	6	0	0
+Ibiam	SC	Sul	06/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4206751	Reconhecido	0	0	0	0	81	0	81	0	36
+Ibiam	SC	Sul	23/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4206751	Registro	0	0	0	0	0	0	0	0	0
+Ibicaré	SC	Sul	18/06/2020	18/06/2020	Chuvas Intensas	Hidrológico	4206801	Registro	0	0	0	0	0	0	0	0	0
+Ibicaré	SC	Sul	20/10/2021	20/10/2021	Chuvas Intensas	Hidrológico	4206801	Registro	0	0	0	0	0	0	0	0	0
+Ibicaré	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4206801	Registro	0	0	0	0	0	0	0	0	0
+Ibicaré	SC	Sul	11/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4206801	Reconhecido	0	0	0	0	0	0	0	1	0
+Ibicaré	SC	Sul	25/10/2023	17/10/2023	Chuvas Intensas	Hidrológico	4206801	Registro	0	0	0	0	0	0	0	0	0
+Ibicaré	SC	Sul	16/11/2023	16/11/2023	Enxurradas	Hidrológico	4206801	Registro	0	0	0	0	0	0	0	0	0
+Ibirama	SC	Sul	18/12/2020	18/12/2020	Enxurradas	Hidrológico	4206900	Reconhecido	1	23	0	4	86	0	114	2	0
+Ibirama	SC	Sul	05/09/2023	04/09/2023	Chuvas Intensas	Hidrológico	4206900	Registro	0	0	0	0	3	0	3	0	1
+Ibirama	SC	Sul	11/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4206900	Reconhecido	0	0	0	11	94	0	105	0	85
+Ibirama	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4206900	Registro	0	1	0	21	30	0	52	0	35
+Ibirama	SC	Sul	15/03/2024	04/03/2024	Chuvas Intensas	Hidrológico	4206900	Registro	0	0	0	0	0	0	0	0	0
+Ibirama	SC	Sul	18/05/2024	18/05/2024	Chuvas Intensas	Hidrológico	4206900	Registro	0	0	0	0	6	0	6	0	0
+Içara	SC	Sul	17/06/2021	17/06/2021	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Içara	SC	Sul	10/09/2021	10/09/2021	Enxurradas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Içara	SC	Sul	17/09/2021	17/09/2021	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Içara	SC	Sul	10/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	10	23	0	33	0	0
+Içara	SC	Sul	02/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Içara	SC	Sul	27/02/2023	21/02/2023	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	1
+Içara	SC	Sul	13/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Içara	SC	Sul	19/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	3
+Içara	SC	Sul	05/09/2023	04/09/2023	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	1
+Içara	SC	Sul	13/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4207007	Reconhecido	0	0	0	0	5	0	5	0	1
+Içara	SC	Sul	21/01/2024	21/01/2024	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Içara	SC	Sul	09/12/2024	06/12/2024	Chuvas Intensas	Hidrológico	4207007	Registro	0	0	0	0	0	0	0	0	0
+Ilhota	SC	Sul	14/02/2020	14/02/2020	Chuvas Intensas	Hidrológico	4207106	Reconhecido	0	0	0	0	10	0	10	0	0
+Ilhota	SC	Sul	22/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4207106	Registro	0	0	0	0	12	0	12	0	0
+Ilhota	SC	Sul	16/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4207106	Reconhecido	0	1	0	200	334	0	535	0	35
+Imaruí	SC	Sul	09/06/2021	09/06/2021	Chuvas Intensas	Hidrológico	4207205	Reconhecido	0	0	0	0	72	0	72	0	1
+Imaruí	SC	Sul	09/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4207205	Registro	0	0	0	0	0	0	0	0	0
+Imaruí	SC	Sul	17/10/2022	13/10/2022	Chuvas Intensas	Hidrológico	4207205	Registro	0	0	0	0	0	0	0	0	0
+Imaruí	SC	Sul	01/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4207205	Registro	0	0	0	0	0	0	0	0	0
+Imaruí	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4207205	Registro	0	0	0	0	4	0	4	0	2
+Imaruí	SC	Sul	17/10/2023	16/10/2023	Chuvas Intensas	Hidrológico	4207205	Reconhecido	0	0	0	0	5	0	5	0	3
+Imbituba	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4207304	Registro	0	0	0	2	4	0	6	0	0
+Imbituba	SC	Sul	30/11/2023	28/11/2023	Chuvas Intensas	Hidrológico	4207304	Registro	0	0	0	0	0	0	0	0	0
+Imbituba	SC	Sul	16/04/2024	13/04/2024	Chuvas Intensas	Hidrológico	4207304	Reconhecido	0	0	0	3	68	0	71	0	0
+Imbituba	SC	Sul	15/07/2024	13/07/2024	Chuvas Intensas	Hidrológico	4207304	Registro	0	0	0	1	10	0	11	0	0
+Imbuia	SC	Sul	02/05/2022	06/03/2022	Enxurradas	Hidrológico	4207403	Registro	0	0	0	0	0	0	0	0	0
+Imbuia	SC	Sul	11/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4207403	Registro	0	0	0	0	0	0	0	0	0
+Imbuia	SC	Sul	11/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4207403	Registro	0	0	0	0	0	0	0	0	0
+Imbuia	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4207403	Registro	0	0	0	0	0	0	0	0	0
+Imbuia	SC	Sul	05/12/2023	03/12/2023	Chuvas Intensas	Hidrológico	4207403	Registro	0	0	0	0	0	0	0	0	0
+Indaial	SC	Sul	16/03/2022	07/03/2022	Enxurradas	Hidrológico	4207502	Registro	0	0	0	0	1	0	1	0	0
+Indaial	SC	Sul	11/05/2022	04/05/2022	Inundações	Hidrológico	4207502	Registro	0	0	0	0	3	0	3	0	0
+Indaial	SC	Sul	11/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	3	0	3	0	0
+Indaial	SC	Sul	08/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	6	0	6	0	0
+Indaial	SC	Sul	20/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	9	0	9	0	35
+Indaial	SC	Sul	07/03/2023	03/03/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	0	0	0	0	0
+Indaial	SC	Sul	29/09/2023	27/09/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	0	0	0	0	0
+Indaial	SC	Sul	06/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	61	143	0	204	0	80
+Indaial	SC	Sul	06/11/2023	12/10/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	0	0	0	0	30
+Indaial	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	0	0	0	0	0
+Indaial	SC	Sul	21/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	25	0	25	0	0
+Indaial	SC	Sul	27/05/2024	19/05/2024	Chuvas Intensas	Hidrológico	4207502	Registro	0	0	0	0	0	0	0	0	0
+Iomerê	SC	Sul	29/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4207577	Registro	0	0	0	0	0	0	0	0	0
+Iomerê	SC	Sul	04/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4207577	Reconhecido	0	0	0	0	0	0	0	0	0
+Ipira	SC	Sul	11/10/2022	11/10/2022	Enxurradas	Hidrológico	4207601	Registro	0	0	0	0	0	0	0	0	0
+Ipira	SC	Sul	05/12/2023	05/10/2023	Chuvas Intensas	Hidrológico	4207601	Reconhecido	0	0	0	0	4	0	4	0	16
+Ipira	SC	Sul	21/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4207601	Reconhecido	0	0	0	84	2	0	86	1	21
+Ipira	SC	Sul	03/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4207601	Reconhecido	1	0	0	0	6	0	7	0	0
+Iporã do Oeste	SC	Sul	24/06/2020	24/06/2020	Enxurradas	Hidrológico	4207650	Registro	0	0	0	0	0	0	0	0	0
+Ipuaçu	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4207684	Registro	0	0	0	0	0	0	0	0	0
+Ipuaçu	SC	Sul	11/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4207684	Reconhecido	0	0	0	0	0	0	0	0	0
+Ipuaçu	SC	Sul	20/10/2023	17/10/2023	Chuvas Intensas	Hidrológico	4207684	Reconhecido	0	0	0	0	0	0	0	0	0
+Ipuaçu	SC	Sul	03/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4207684	Reconhecido	0	0	0	0	9	0	9	0	0
+Ipuaçu	SC	Sul	26/11/2024	07/11/2024	Chuvas Intensas	Hidrológico	4207684	Registro	0	0	0	0	0	0	0	0	0
+Ipumirim	SC	Sul	11/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4207700	Reconhecido	0	0	0	0	0	0	0	0	0
+Iraceminha	SC	Sul	26/01/2022	25/01/2022	Chuvas Intensas	Hidrológico	4207759	Registro	0	0	0	0	0	0	0	0	0
+Iraceminha	SC	Sul	04/03/2022	28/02/2022	Chuvas Intensas	Hidrológico	4207759	Registro	0	0	0	0	0	0	0	0	0
+Irani	SC	Sul	03/04/2022	24/03/2022	Chuvas Intensas	Hidrológico	4207809	Registro	0	0	0	0	0	0	0	0	0
+Irani	SC	Sul	30/11/2023	05/10/2023	Chuvas Intensas	Hidrológico	4207809	Reconhecido	0	0	0	0	0	0	0	0	31
+Irati	SC	Sul	25/03/2022	24/03/2022	Enxurradas	Hidrológico	4207858	Registro	0	0	0	0	0	0	0	0	0
+Irati	SC	Sul	14/10/2022	10/10/2022	Enxurradas	Hidrológico	4207858	Registro	0	0	0	0	0	0	0	0	0
+Irati	SC	Sul	16/10/2023	12/10/2023	Chuvas Intensas	Hidrológico	4207858	Registro	0	0	0	0	0	0	0	0	0
+Irineópolis	SC	Sul	05/02/2021	05/02/2021	Chuvas Intensas	Hidrológico	4207908	Registro	0	0	0	0	0	0	0	0	0
+Irineópolis	SC	Sul	18/04/2023	17/04/2023	Chuvas Intensas	Hidrológico	4207908	Registro	0	0	0	0	0	0	0	0	6
+Irineópolis	SC	Sul	13/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4207908	Registro	0	0	0	0	0	0	0	0	0
+Irineópolis	SC	Sul	08/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4207908	Reconhecido	0	0	0	70	209	0	279	0	65
+Irineópolis	SC	Sul	20/12/2024	16/12/2024	Chuvas Intensas	Hidrológico	4207908	Registro	0	0	0	0	4	0	4	0	0
+Itá	SC	Sul	19/10/2023	17/10/2023	Chuvas Intensas	Hidrológico	4208005	Reconhecido	0	0	0	0	0	0	0	0	20
+Itá	SC	Sul	27/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4208005	Registro	0	0	0	0	0	0	0	0	2
+Itaiópolis	SC	Sul	28/01/2021	28/01/2021	Chuvas Intensas	Hidrológico	4208104	Reconhecido	0	0	0	0	7	0	7	0	0
+Itaiópolis	SC	Sul	24/03/2021	24/03/2021	Alagamentos	Hidrológico	4208104	Registro	0	0	0	0	3	0	3	0	0
+Itaiópolis	SC	Sul	18/11/2021	18/11/2021	Chuvas Intensas	Hidrológico	4208104	Registro	0	0	0	0	0	0	0	0	0
+Itaiópolis	SC	Sul	04/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4208104	Registro	0	0	0	0	0	0	0	0	0
+Itaiópolis	SC	Sul	01/06/2022	29/05/2022	Chuvas Intensas	Hidrológico	4208104	Registro	0	0	0	0	0	0	0	1	0
+Itaiópolis	SC	Sul	10/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4208104	Registro	0	0	0	0	0	0	0	0	0
+Itaiópolis	SC	Sul	31/10/2022	20/10/2022	Chuvas Intensas	Hidrológico	4208104	Registro	0	0	0	0	0	0	0	0	0
+Itaiópolis	SC	Sul	05/12/2022	04/12/2022	Chuvas Intensas	Hidrológico	4208104	Reconhecido	0	0	0	0	3	0	3	0	0
+Itaiópolis	SC	Sul	28/12/2022	27/12/2022	Chuvas Intensas	Hidrológico	4208104	Reconhecido	0	0	0	0	0	0	0	0	0
+Itaiópolis	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4208104	Reconhecido	0	0	0	0	3	0	3	0	3
+Itaiópolis	SC	Sul	19/09/2024	14/09/2024	Chuvas Intensas	Hidrológico	4208104	Registro	0	0	0	0	0	0	0	0	0
+Itajaí	SC	Sul	11/06/2021	11/06/2021	Chuvas Intensas	Hidrológico	4208203	Registro	0	0	0	0	0	0	0	0	0
+Itajaí	SC	Sul	05/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4208203	Registro	0	0	0	0	0	0	0	0	0
+Itajaí	SC	Sul	10/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4208203	Registro	0	0	0	0	0	0	0	32	0
+Itajaí	SC	Sul	28/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4208203	Registro	0	0	0	0	0	0	0	0	0
+Itajaí	SC	Sul	26/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4208203	Reconhecido	0	0	0	152	1458	0	1610	12	0
+Itajaí	SC	Sul	01/09/2023	13/03/2023	Alagamentos	Hidrológico	4208203	Registro	0	0	0	130	75	0	205	0	0
+Itajaí	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4208203	Reconhecido	0	0	0	565	35	0	600	0	14182
+Itajaí	SC	Sul	21/11/2023	17/11/2023	Inundações	Hidrológico	4208203	Reconhecido	0	0	0	88	99	0	187	0	5599
+Itajaí	SC	Sul	11/10/2024	10/10/2024	Chuvas Intensas	Hidrológico	4208203	Registro	0	0	0	0	0	0	0	0	0
+Itapema	SC	Sul	11/01/2020	11/01/2020	Chuvas Intensas	Hidrológico	4208302	Registro	0	0	0	0	0	0	0	2	0
+Itapema	SC	Sul	09/03/2021	09/03/2021	Chuvas Intensas	Hidrológico	4208302	Reconhecido	0	0	0	12	3	0	15	0	3
+Itapema	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4208302	Reconhecido	0	0	0	100	40	0	140	5	0
+Itapema	SC	Sul	24/03/2023	23/03/2023	Chuvas Intensas	Hidrológico	4208302	Reconhecido	0	0	0	80	50	0	130	0	1500
+Itapiranga	SC	Sul	06/11/2023	28/10/2023	Chuvas Intensas	Hidrológico	4208401	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	27/02/2020	27/02/2020	Chuvas Intensas	Hidrológico	4208450	Reconhecido	0	0	0	8	133	0	141	0	0
+Itapoá	SC	Sul	21/01/2021	21/01/2021	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	01/03/2021	01/03/2021	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	10/09/2021	10/09/2021	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	22/12/2021	22/12/2021	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	15/02/2022	14/02/2022	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	24/08/2022	11/08/2022	Chuvas Intensas	Hidrológico	4208450	Reconhecido	0	0	0	0	38	0	38	0	0
+Itapoá	SC	Sul	31/10/2022	30/10/2022	Alagamentos	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	28/11/2022	28/11/2022	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	21/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	30/03/2023	29/03/2023	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	15/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	08/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Itapoá	SC	Sul	21/01/2024	20/01/2024	Chuvas Intensas	Hidrológico	4208450	Reconhecido	0	0	0	51	400	0	451	0	0
+Itapoá	SC	Sul	01/03/2024	29/01/2024	Chuvas Intensas	Hidrológico	4208450	Registro	0	0	0	0	0	0	0	0	0
+Ituporanga	SC	Sul	12/02/2021	12/02/2021	Chuvas Intensas	Hidrológico	4208500	Registro	0	0	0	0	0	0	0	0	0
+Ituporanga	SC	Sul	06/05/2022	02/05/2022	Inundações	Hidrológico	4208500	Registro	0	0	0	0	4	0	4	0	0
+Ituporanga	SC	Sul	23/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4208500	Registro	0	0	0	0	0	0	0	0	0
+Ituporanga	SC	Sul	13/01/2023	12/01/2023	Enxurradas	Hidrológico	4208500	Reconhecido	0	0	0	0	26	0	26	0	8
+Ituporanga	SC	Sul	19/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4208500	Reconhecido	0	0	0	63	2082	0	2145	2	8
+Ituporanga	SC	Sul	11/12/2023	02/12/2023	Enxurradas	Hidrológico	4208500	Registro	0	0	0	0	24	0	24	0	0
+Ituporanga	SC	Sul	16/07/2024	07/07/2024	Chuvas Intensas	Hidrológico	4208500	Registro	0	0	0	0	16	0	16	0	0
+Jaborá	SC	Sul	29/06/2022	22/06/2022	Enxurradas	Hidrológico	4208609	Registro	0	0	0	0	5	0	5	0	0
+Jaborá	SC	Sul	18/07/2023	11/07/2023	Enxurradas	Hidrológico	4208609	Registro	0	0	0	0	0	0	0	0	1
+Jaborá	SC	Sul	23/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4208609	Reconhecido	0	0	0	0	59	0	59	0	20
+Jaborá	SC	Sul	21/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4208609	Registro	0	0	0	0	95	0	95	0	37
+Jacinto Machado	SC	Sul	08/07/2020	08/07/2020	Enxurradas	Hidrológico	4208708	Registro	0	0	0	0	0	0	0	0	0
+Jacinto Machado	SC	Sul	20/12/2021	20/12/2021	Enxurradas	Hidrológico	4208708	Registro	0	0	0	0	0	0	0	0	0
+Jacinto Machado	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4208708	Registro	0	0	0	0	0	0	0	0	0
+Jacinto Machado	SC	Sul	26/06/2023	15/06/2023	Enxurradas	Hidrológico	4208708	Registro	0	0	0	0	0	0	0	0	0
+Jacinto Machado	SC	Sul	13/11/2023	07/10/2023	Enxurradas	Hidrológico	4208708	Registro	0	0	0	0	0	0	0	0	0
+Jacinto Machado	SC	Sul	04/12/2023	17/11/2023	Enxurradas	Hidrológico	4208708	Registro	0	0	0	0	0	0	0	0	0
+Jacinto Machado	SC	Sul	13/05/2024	10/05/2024	Chuvas Intensas	Hidrológico	4208708	Registro	0	0	0	0	4	0	4	0	0
+Jacinto Machado	SC	Sul	07/11/2024	06/11/2024	Chuvas Intensas	Hidrológico	4208708	Reconhecido	0	0	0	0	30	0	30	0	0
+Jaguaruna	SC	Sul	12/07/2021	12/07/2021	Alagamentos	Hidrológico	4208807	Registro	0	0	0	0	20	0	20	0	1
+Jaguaruna	SC	Sul	09/05/2022	03/05/2022	Inundações	Hidrológico	4208807	Registro	0	0	0	0	7	0	7	2	0
+Jaguaruna	SC	Sul	11/08/2022	09/08/2022	Enxurradas	Hidrológico	4208807	Registro	0	0	0	0	8	0	8	5	0
+Jaguaruna	SC	Sul	02/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4208807	Registro	0	0	0	0	9	0	9	0	0
+Jaguaruna	SC	Sul	10/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4208807	Registro	0	0	0	0	0	0	0	0	0
+Jaguaruna	SC	Sul	18/10/2023	16/10/2023	Chuvas Intensas	Hidrológico	4208807	Registro	0	0	0	0	0	0	0	0	0
+Jaguaruna	SC	Sul	15/07/2024	14/07/2024	Chuvas Intensas	Hidrológico	4208807	Reconhecido	0	0	0	0	0	0	0	0	0
+Jaraguá do Sul	SC	Sul	22/02/2022	21/02/2022	Enxurradas	Hidrológico	4208906	Registro	0	0	0	0	0	0	0	0	0
+Jaraguá do Sul	SC	Sul	06/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4208906	Registro	0	0	0	0	0	0	0	0	0
+Jaraguá do Sul	SC	Sul	30/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4208906	Reconhecido	0	0	0	12	0	0	12	0	0
+Jaraguá do Sul	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4208906	Registro	0	0	0	0	0	0	0	0	0
+Jaraguá do Sul	SC	Sul	12/01/2024	11/01/2024	Chuvas Intensas	Hidrológico	4208906	Registro	0	0	0	0	0	0	0	0	0
+Jaraguá do Sul	SC	Sul	05/02/2024	28/01/2024	Enxurradas	Hidrológico	4208906	Reconhecido	0	0	0	0	20	0	20	2	0
+Jardinópolis	SC	Sul	08/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4208955	Reconhecido	0	0	0	0	37	0	37	0	38
+Joaçaba	SC	Sul	23/03/2022	15/03/2022	Chuvas Intensas	Hidrológico	4209003	Registro	0	0	0	0	0	0	0	0	0
+Joaçaba	SC	Sul	12/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4209003	Registro	0	0	0	0	0	0	0	0	0
+Joaçaba	SC	Sul	16/10/2023	06/05/2023	Chuvas Intensas	Hidrológico	4209003	Registro	0	0	0	5	7	0	12	0	0
+Joinville	SC	Sul	10/02/2020	10/02/2020	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	2	12	0	14	0	0
+Joinville	SC	Sul	10/12/2020	10/12/2020	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	4	0	4	0	0
+Joinville	SC	Sul	06/01/2021	06/01/2021	Chuvas Intensas	Hidrológico	4209102	Reconhecido	0	0	0	0	5000	0	5000	0	0
+Joinville	SC	Sul	21/12/2021	21/12/2021	Enxurradas	Hidrológico	4209102	Registro	0	0	0	0	0	0	0	0	0
+Joinville	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4209102	Reconhecido	0	0	0	75	2739	0	2814	0	0
+Joinville	SC	Sul	28/11/2022	28/11/2022	Chuvas Intensas	Hidrológico	4209102	Reconhecido	0	0	0	203	503	0	706	6	0
+Joinville	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	0	0	0	0	0
+Joinville	SC	Sul	05/01/2023	03/01/2023	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	7	0	7	0	6
+Joinville	SC	Sul	09/02/2023	19/01/2023	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	0	0	0	0	3
+Joinville	SC	Sul	27/02/2023	10/02/2023	Enxurradas	Hidrológico	4209102	Registro	0	0	0	0	0	0	0	0	0
+Joinville	SC	Sul	08/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	3	0	3	0	1
+Joinville	SC	Sul	15/01/2024	11/01/2024	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	9	0	9	0	0
+Joinville	SC	Sul	22/01/2024	22/01/2024	Chuvas Intensas	Hidrológico	4209102	Registro	0	2	0	0	3	0	5	0	0
+Joinville	SC	Sul	25/02/2024	25/02/2024	Chuvas Intensas	Hidrológico	4209102	Reconhecido	0	0	0	0	1693	0	1693	0	0
+Joinville	SC	Sul	19/07/2024	16/07/2024	Alagamentos	Hidrológico	4209102	Registro	0	0	0	0	0	0	0	0	0
+Joinville	SC	Sul	10/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4209102	Registro	0	0	0	0	0	0	0	0	0
+José Boiteux	SC	Sul	30/03/2022	24/03/2022	Enxurradas	Hidrológico	4209151	Registro	0	0	0	0	0	0	0	0	0
+José Boiteux	SC	Sul	05/05/2022	04/05/2022	Inundações	Hidrológico	4209151	Registro	0	0	0	0	0	0	0	0	0
+José Boiteux	SC	Sul	18/10/2022	12/10/2022	Chuvas Intensas	Hidrológico	4209151	Registro	0	0	0	0	0	0	0	0	0
+José Boiteux	SC	Sul	07/03/2023	03/03/2023	Chuvas Intensas	Hidrológico	4209151	Registro	0	0	0	0	5	0	5	0	0
+José Boiteux	SC	Sul	09/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4209151	Reconhecido	0	0	0	14	52	0	66	0	8
+Jupiá	SC	Sul	28/11/2023	19/11/2023	Chuvas Intensas	Hidrológico	4209177	Registro	0	0	0	0	0	0	0	0	0
+Jupiá	SC	Sul	23/02/2024	10/12/2023	Enxurradas	Hidrológico	4209177	Registro	0	0	0	0	0	0	0	0	0
+Jupiá	SC	Sul	06/03/2024	04/03/2024	Enxurradas	Hidrológico	4209177	Registro	0	0	0	0	0	0	0	0	0
+Lacerdópolis	SC	Sul	08/11/2022	11/10/2022	Chuvas Intensas	Hidrológico	4209201	Registro	0	0	0	0	0	0	0	0	0
+Lacerdópolis	SC	Sul	13/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4209201	Reconhecido	0	0	0	0	37	0	37	0	18
+Lages	SC	Sul	25/03/2022	07/03/2022	Chuvas Intensas	Hidrológico	4209300	Registro	0	0	0	0	0	0	0	0	0
+Lages	SC	Sul	05/05/2022	05/05/2022	Chuvas Intensas	Hidrológico	4209300	Reconhecido	0	0	0	81	312	0	393	0	0
+Lages	SC	Sul	11/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4209300	Reconhecido	0	0	0	53	963	0	1016	2	281
+Lages	SC	Sul	11/04/2024	21/02/2024	Chuvas Intensas	Hidrológico	4209300	Registro	0	0	0	0	16	0	16	0	0
+Lages	SC	Sul	18/06/2024	13/06/2024	Chuvas Intensas	Hidrológico	4209300	Registro	0	0	0	0	0	0	0	0	0
+Laguna	SC	Sul	10/06/2021	10/06/2021	Chuvas Intensas	Hidrológico	4209409	Reconhecido	0	2	0	0	15	0	17	0	0
+Laguna	SC	Sul	01/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4209409	Reconhecido	0	0	0	0	12	0	39	0	0
+Laguna	SC	Sul	07/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4209409	Reconhecido	0	0	0	0	0	0	0	0	0
+Lajeado Grande	SC	Sul	12/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4209458	Registro	0	0	0	0	0	0	0	0	0
+Lajeado Grande	SC	Sul	10/10/2022	06/10/2022	Chuvas Intensas	Hidrológico	4209458	Registro	0	0	0	0	0	0	0	0	0
+Lajeado Grande	SC	Sul	11/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4209458	Reconhecido	0	0	0	0	5	0	5	0	0
+Lajeado Grande	SC	Sul	12/07/2023	11/07/2023	Chuvas Intensas	Hidrológico	4209458	Registro	0	0	0	0	0	0	0	0	0
+Lajeado Grande	SC	Sul	19/10/2023	19/10/2023	Chuvas Intensas	Hidrológico	4209458	Registro	0	0	0	0	0	0	0	0	0
+Laurentino	SC	Sul	10/03/2022	08/03/2022	Enxurradas	Hidrológico	4209508	Reconhecido	0	0	0	0	58	0	58	0	0
+Laurentino	SC	Sul	05/05/2022	05/05/2022	Inundações	Hidrológico	4209508	Reconhecido	0	2	0	137	1388	0	1527	0	0
+Laurentino	SC	Sul	19/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4209508	Reconhecido	0	4	0	227	2138	0	2369	11	730
+Lauro Muller	SC	Sul	08/02/2022	19/01/2022	Chuvas Intensas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Muller	SC	Sul	14/03/2022	10/03/2022	Chuvas Intensas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Muller	SC	Sul	09/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4209607	Reconhecido	0	0	0	0	13	0	13	0	0
+Lauro Muller	SC	Sul	04/05/2022	03/05/2022	Enxurradas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Muller	SC	Sul	20/01/2023	18/01/2023	Chuvas Intensas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Muller	SC	Sul	08/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Muller	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4209607	Reconhecido	0	0	0	0	20	0	20	0	6
+Lauro Muller	SC	Sul	31/01/2024	27/01/2024	Chuvas Intensas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Müller	SC	Sul	03/02/2021	03/02/2021	Enxurradas	Hidrológico	4209607	Reconhecido	0	0	0	0	6	0	6	0	1
+Lauro Müller	SC	Sul	03/03/2021	03/03/2021	Inundações	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lauro Müller	SC	Sul	08/07/2021	08/07/2021	Enxurradas	Hidrológico	4209607	Registro	0	0	0	0	0	0	0	0	0
+Lebon Régis	SC	Sul	22/08/2022	18/08/2022	Chuvas Intensas	Hidrológico	4209706	Registro	0	0	0	0	0	0	0	0	0
+Lebon Régis	SC	Sul	14/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4209706	Registro	0	0	0	0	0	0	0	0	0
+Lebon Régis	SC	Sul	11/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4209706	Reconhecido	0	0	0	0	35	0	35	1	7
+Leoberto Leal	SC	Sul	07/11/2023	08/10/2023	Chuvas Intensas	Hidrológico	4209805	Registro	0	0	0	0	0	0	0	0	0
+Leoberto Leal	SC	Sul	16/01/2024	15/11/2023	Chuvas Intensas	Hidrológico	4209805	Registro	0	0	0	0	0	0	0	0	0
+Leoberto Leal	SC	Sul	05/11/2024	01/10/2024	Chuvas Intensas	Hidrológico	4209805	Registro	0	0	0	0	0	0	0	0	0
+Lindóia do Sul	SC	Sul	13/04/2022	07/04/2022	Chuvas Intensas	Hidrológico	4209854	Registro	0	0	0	0	0	0	0	0	0
+Lindóia do Sul	SC	Sul	24/10/2023	19/10/2023	Chuvas Intensas	Hidrológico	4209854	Registro	0	0	0	0	0	0	0	0	0
+Lindóia do Sul	SC	Sul	29/01/2024	18/01/2024	Chuvas Intensas	Hidrológico	4209854	Registro	0	0	0	0	0	0	0	0	0
+Lontras	SC	Sul	20/12/2020	20/12/2020	Enxurradas	Hidrológico	4209904	Reconhecido	0	0	0	0	6	0	6	0	0
+Lontras	SC	Sul	09/05/2022	03/05/2022	Inundações	Hidrológico	4209904	Registro	0	0	0	0	0	0	0	0	0
+Lontras	SC	Sul	08/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4209904	Reconhecido	0	0	0	252	1018	0	1270	0	192
+Lontras	SC	Sul	18/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4209904	Reconhecido	0	0	0	339	2060	0	2399	0	769
+Lontras	SC	Sul	20/05/2024	15/05/2024	Chuvas Intensas	Hidrológico	4209904	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	10/01/2020	10/01/2020	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	11/02/2020	11/02/2020	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	10/03/2022	06/03/2022	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	08/03/2022	07/03/2022	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	17/03/2022	11/03/2022	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	24/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	01/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4210001	Reconhecido	0	0	0	0	18	0	18	0	0
+Luiz Alves	SC	Sul	21/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	23/03/2023	22/03/2023	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	19/04/2023	17/04/2023	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	05/12/2023	13/10/2023	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	06/12/2023	03/11/2023	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luiz Alves	SC	Sul	24/04/2024	16/04/2024	Chuvas Intensas	Hidrológico	4210001	Registro	0	0	0	0	0	0	0	0	0
+Luzerna	SC	Sul	08/10/2021	08/10/2021	Enxurradas	Hidrológico	4210035	Registro	0	0	0	0	0	0	0	0	0
+Luzerna	SC	Sul	26/10/2021	26/10/2021	Enxurradas	Hidrológico	4210035	Registro	0	0	0	0	0	0	0	0	0
+Luzerna	SC	Sul	05/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4210035	Registro	0	0	0	0	12	0	12	0	0
+Luzerna	SC	Sul	14/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4210035	Registro	0	0	0	0	15	0	15	0	0
+Luzerna	SC	Sul	22/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4210035	Registro	0	0	0	6	33	0	39	0	14
+Macieira	SC	Sul	14/10/2022	09/10/2022	Inundações	Hidrológico	4210050	Registro	0	0	0	0	0	0	0	0	0
+Macieira	SC	Sul	13/10/2023	12/10/2023	Inundações	Hidrológico	4210050	Registro	0	0	0	0	0	0	0	0	0
+Macieira	SC	Sul	16/11/2023	16/11/2023	Enxurradas	Hidrológico	4210050	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	06/01/2020	06/01/2020	Enxurradas	Hidrológico	4210100	Registro	0	0	0	0	1	0	1	0	0
+Mafra	SC	Sul	19/11/2021	19/11/2021	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	04/03/2022	01/03/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	17/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	24/08/2022	06/08/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	23/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	24/08/2022	16/08/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	22/09/2022	12/09/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	28/09/2022	26/09/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	20/10/2022	14/10/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	24/10/2022	20/10/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	28/11/2022	27/11/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	12/12/2022	06/12/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	29/12/2022	28/12/2022	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	50	0	50	0	0
+Mafra	SC	Sul	18/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	24/03/2023	04/03/2023	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	08/03/2023	07/03/2023	Alagamentos	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	3
+Mafra	SC	Sul	19/04/2023	18/04/2023	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	2
+Mafra	SC	Sul	14/07/2023	14/07/2023	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	20/09/2023	19/09/2023	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	2
+Mafra	SC	Sul	05/10/2023	05/10/2023	Chuvas Intensas	Hidrológico	4210100	Reconhecido	0	0	0	306	148	0	454	0	53
+Mafra	SC	Sul	30/10/2023	28/10/2023	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	17/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	16/07/2024	16/07/2024	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	16/09/2024	15/09/2024	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	25/10/2024	24/10/2024	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	07/11/2024	07/11/2024	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Mafra	SC	Sul	11/12/2024	09/12/2024	Chuvas Intensas	Hidrológico	4210100	Registro	0	0	0	0	0	0	0	0	0
+Major Gercino	SC	Sul	10/12/2020	10/12/2020	Inundações	Hidrológico	4210209	Registro	0	0	0	0	1	0	1	0	0
+Major Gercino	SC	Sul	29/01/2021	29/01/2021	Chuvas Intensas	Hidrológico	4210209	Registro	0	0	0	0	3	0	3	0	0
+Major Gercino	SC	Sul	04/05/2022	04/05/2022	Alagamentos	Hidrológico	4210209	Registro	0	0	0	0	0	0	0	0	0
+Major Gercino	SC	Sul	23/06/2022	23/06/2022	Alagamentos	Hidrológico	4210209	Registro	0	0	0	0	0	0	0	0	0
+Major Gercino	SC	Sul	18/08/2022	18/08/2022	Chuvas Intensas	Hidrológico	4210209	Registro	0	0	0	0	0	0	0	0	0
+Major Gercino	SC	Sul	30/11/2022	30/11/2022	Chuvas Intensas	Hidrológico	4210209	Reconhecido	0	1	0	0	30	0	31	0	0
+Major Gercino	SC	Sul	16/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4210209	Registro	0	0	0	0	0	0	0	0	0
+Major Gercino	SC	Sul	17/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4210209	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	25/01/2021	25/01/2021	Chuvas Intensas	Hidrológico	4210308	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	31/03/2022	30/03/2022	Chuvas Intensas	Hidrológico	4210308	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	09/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4210308	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	18/08/2022	18/08/2022	Chuvas Intensas	Hidrológico	4210308	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	24/01/2023	18/01/2023	Chuvas Intensas	Hidrológico	4210308	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	14/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4210308	Registro	0	0	0	0	0	0	0	0	0
+Major Vieira	SC	Sul	19/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4210308	Reconhecido	0	0	0	8	9	0	17	0	0
+Maracajá	SC	Sul	04/04/2022	26/01/2022	Chuvas Intensas	Hidrológico	4210407	Registro	0	0	0	0	0	0	0	0	0
+Maracajá	SC	Sul	11/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4210407	Registro	0	0	0	0	76	0	76	0	0
+Maracajá	SC	Sul	12/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4210407	Registro	0	0	0	0	35	0	35	0	0
+Maracajá	SC	Sul	09/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4210407	Registro	0	0	0	0	0	0	0	0	0
+Maracajá	SC	Sul	12/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4210407	Registro	0	0	0	0	0	0	0	0	0
+Maravilha	SC	Sul	06/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4210506	Reconhecido	0	0	0	0	16	0	16	0	0
+Marema	SC	Sul	21/10/2022	19/10/2022	Chuvas Intensas	Hidrológico	4210555	Reconhecido	0	0	0	0	0	0	0	0	0
+Marema	SC	Sul	09/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4210555	Reconhecido	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	15/12/2021	15/12/2021	Chuvas Intensas	Hidrológico	4210605	Registro	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	24/02/2022	21/02/2022	Chuvas Intensas	Hidrológico	4210605	Registro	0	0	0	0	0	0	0	1	0
+Massaranduba	SC	Sul	05/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4210605	Registro	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	08/06/2022	06/06/2022	Chuvas Intensas	Hidrológico	4210605	Registro	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	11/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4210605	Registro	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	28/11/2022	27/11/2022	Chuvas Intensas	Hidrológico	4210605	Reconhecido	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4210605	Reconhecido	0	0	0	0	0	0	0	0	0
+Massaranduba	SC	Sul	28/01/2024	28/01/2024	Chuvas Intensas	Hidrológico	4210605	Registro	0	0	0	0	0	0	0	0	0
+Matos Costa	SC	Sul	29/11/2024	07/11/2024	Enxurradas	Hidrológico	4210704	Registro	0	0	0	0	0	0	0	0	0
+Meleiro	SC	Sul	13/06/2022	02/05/2022	Inundações	Hidrológico	4210803	Registro	0	0	0	0	12	0	12	0	0
+Meleiro	SC	Sul	16/08/2022	09/08/2022	Inundações	Hidrológico	4210803	Registro	0	0	0	0	0	0	0	0	0
+Meleiro	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4210803	Registro	0	0	0	0	4	0	4	0	0
+Mirim Doce	SC	Sul	21/09/2021	21/09/2021	Inundações	Hidrológico	4210852	Registro	0	0	0	0	0	0	0	0	0
+Mirim Doce	SC	Sul	01/09/2022	05/05/2022	Inundações	Hidrológico	4210852	Registro	0	0	0	0	0	0	0	0	0
+Mirim Doce	SC	Sul	25/10/2022	11/10/2022	Inundações	Hidrológico	4210852	Registro	0	0	0	0	0	0	0	0	0
+Mirim Doce	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4210852	Reconhecido	0	1	0	4	335	0	340	1	105
+Mondaí	SC	Sul	20/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4211009	Reconhecido	0	0	0	0	0	0	0	0	0
+Monte Carlo	SC	Sul	05/05/2022	04/05/2022	Inundações	Hidrológico	4211058	Reconhecido	0	0	0	6	0	0	6	0	0
+Monte Carlo	SC	Sul	04/05/2022	04/05/2022	Enxurradas	Hidrológico	4211058	Registro	0	0	0	0	0	0	0	0	0
+Monte Carlo	SC	Sul	11/10/2022	11/10/2022	Enxurradas	Hidrológico	4211058	Reconhecido	0	0	0	0	78	0	78	0	0
+Monte Carlo	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4211058	Reconhecido	0	0	0	0	132	0	132	0	33
+Monte Castelo	SC	Sul	25/01/2021	25/01/2021	Chuvas Intensas	Hidrológico	4211108	Registro	0	0	0	0	0	0	0	0	0
+Monte Castelo	SC	Sul	16/05/2022	03/05/2022	Alagamentos	Hidrológico	4211108	Registro	0	0	0	0	0	0	0	0	0
+Monte Castelo	SC	Sul	07/12/2023	04/10/2023	Alagamentos	Hidrológico	4211108	Registro	0	0	0	0	0	0	0	0	0
+Morro da Fumaça	SC	Sul	19/04/2022	13/04/2022	Chuvas Intensas	Hidrológico	4211207	Registro	0	0	0	0	0	0	0	0	0
+Morro da Fumaça	SC	Sul	18/05/2022	01/05/2022	Chuvas Intensas	Hidrológico	4211207	Registro	0	0	0	45	126	0	171	0	0
+Morro da Fumaça	SC	Sul	25/08/2022	08/08/2022	Chuvas Intensas	Hidrológico	4211207	Registro	0	0	0	36	280	0	316	3	0
+Morro da Fumaça	SC	Sul	18/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4211207	Registro	0	0	0	72	114	0	186	0	106
+Morro Grande	SC	Sul	20/06/2022	04/05/2022	Alagamentos	Hidrológico	4211256	Registro	0	0	0	0	0	0	0	0	0
+Morro Grande	SC	Sul	27/06/2022	24/06/2022	Chuvas Intensas	Hidrológico	4211256	Registro	0	0	0	0	8	0	8	0	0
+Morro Grande	SC	Sul	23/08/2022	09/08/2022	Chuvas Intensas	Hidrológico	4211256	Registro	0	0	0	0	0	0	0	0	0
+Morro Grande	SC	Sul	25/01/2023	23/01/2023	Chuvas Intensas	Hidrológico	4211256	Registro	0	0	0	0	0	0	0	0	0
+Morro Grande	SC	Sul	24/02/2023	20/02/2023	Chuvas Intensas	Hidrológico	4211256	Registro	0	0	0	0	0	0	0	0	0
+Morro Grande	SC	Sul	07/03/2023	05/03/2023	Chuvas Intensas	Hidrológico	4211256	Reconhecido	0	0	0	0	0	0	0	0	0
+Morro Grande	SC	Sul	22/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4211256	Registro	0	0	0	0	0	0	0	0	0
+Navegantes	SC	Sul	07/02/2020	07/02/2020	Enxurradas	Hidrológico	4211306	Registro	0	0	0	0	0	0	0	0	0
+Navegantes	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4211306	Reconhecido	0	0	0	0	400	0	400	0	0
+Navegantes	SC	Sul	01/11/2023	09/10/2023	Alagamentos	Hidrológico	4211306	Registro	0	0	0	65	200	0	265	0	0
+Nova Itaberaba	SC	Sul	30/10/2023	19/10/2023	Chuvas Intensas	Hidrológico	4211454	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	04/03/2021	04/03/2021	Chuvas Intensas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	16/03/2021	16/03/2021	Enxurradas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	14/10/2021	14/10/2021	Chuvas Intensas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	11/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	17/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	30/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4211504	Reconhecido	0	0	0	0	15	0	15	0	0
+Nova Trento	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4211504	Reconhecido	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	17/11/2023	15/11/2023	Chuvas Intensas	Hidrológico	4211504	Reconhecido	0	0	0	0	40	0	40	0	0
+Nova Trento	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Trento	SC	Sul	29/04/2024	28/04/2024	Chuvas Intensas	Hidrológico	4211504	Registro	0	0	0	0	0	0	0	0	0
+Nova Veneza	SC	Sul	06/05/2022	01/05/2022	Chuvas Intensas	Hidrológico	4211603	Registro	0	0	0	0	3	0	3	0	0
+Nova Veneza	SC	Sul	22/08/2022	09/08/2022	Alagamentos	Hidrológico	4211603	Registro	0	0	0	0	5	0	5	0	0
+Nova Veneza	SC	Sul	11/10/2022	11/10/2022	Inundações	Hidrológico	4211603	Registro	0	0	0	0	0	0	0	0	0
+Nova Veneza	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4211603	Reconhecido	0	0	0	0	5	0	5	0	6
+Novo Horizonte	SC	Sul	14/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4211652	Reconhecido	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	13/02/2020	13/02/2020	Alagamentos	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	13/01/2021	13/01/2021	Alagamentos	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	04/03/2021	04/03/2021	Enxurradas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	15/03/2021	15/03/2021	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	19/01/2022	17/01/2022	Enxurradas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	06/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	03/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4211702	Reconhecido	0	0	0	12	56	0	68	0	0
+Orleans	SC	Sul	12/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	28/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	06/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	09/02/2023	08/02/2023	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	1
+Orleans	SC	Sul	07/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	3
+Orleans	SC	Sul	07/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4211702	Reconhecido	0	0	0	3	80	0	83	3	22
+Orleans	SC	Sul	28/01/2024	26/01/2024	Enxurradas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	29/01/2024	27/01/2024	Chuvas Intensas	Hidrológico	4211702	Reconhecido	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	17/03/2024	16/03/2024	Alagamentos	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Orleans	SC	Sul	15/07/2024	11/07/2024	Chuvas Intensas	Hidrológico	4211702	Registro	0	0	0	0	0	0	0	0	0
+Otacílio Costa	SC	Sul	11/05/2022	11/05/2022	Chuvas Intensas	Hidrológico	4211751	Reconhecido	0	0	0	0	90	0	90	0	0
+Otacílio Costa	SC	Sul	08/10/2023	03/10/2023	Chuvas Intensas	Hidrológico	4211751	Reconhecido	0	0	0	68	118	0	186	0	0
+Otacílio Costa	SC	Sul	04/06/2024	31/05/2024	Chuvas Intensas	Hidrológico	4211751	Registro	0	0	0	0	0	0	0	0	0
+Otacílio Costa	SC	Sul	13/06/2024	05/06/2024	Chuvas Intensas	Hidrológico	4211751	Registro	0	0	0	0	0	0	0	0	0
+Ouro	SC	Sul	05/05/2022	03/05/2022	Alagamentos	Hidrológico	4211801	Registro	0	0	0	0	3	0	3	0	0
+Ouro	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4211801	Reconhecido	0	0	0	0	2	0	2	0	0
+Ouro Verde	SC	Sul	25/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4211850	Registro	0	0	0	0	0	0	0	0	0
+Ouro Verde	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4211850	Registro	0	0	0	0	0	0	0	0	0
+Ouro Verde	SC	Sul	14/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4211850	Reconhecido	0	0	0	0	12	0	12	1	0
+Ouro Verde	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4211850	Reconhecido	0	0	0	0	0	0	0	0	0
+Paial	SC	Sul	23/10/2023	18/10/2023	Chuvas Intensas	Hidrológico	4211876	Reconhecido	0	0	0	0	0	0	0	0	20
+Painel	SC	Sul	18/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4211892	Reconhecido	0	0	0	7	16	0	23	0	30
+Palhoça	SC	Sul	19/12/2020	19/12/2020	Inundações	Hidrológico	4211900	Registro	0	0	0	0	20	0	20	20	0
+Palhoça	SC	Sul	26/01/2021	26/01/2021	Chuvas Intensas	Hidrológico	4211900	Registro	0	0	0	0	0	0	0	0	0
+Palhoça	SC	Sul	21/06/2021	21/06/2021	Chuvas Intensas	Hidrológico	4211900	Registro	0	0	0	0	0	0	0	0	0
+Palhoça	SC	Sul	12/10/2021	12/10/2021	Chuvas Intensas	Hidrológico	4211900	Registro	0	0	0	0	12	0	12	0	0
+Palhoça	SC	Sul	01/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4211900	Reconhecido	3	30	0	2000	600	0	2633	4	4
+Palhoça	SC	Sul	08/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4211900	Registro	0	0	0	0	0	0	0	0	0
+Palhoça	SC	Sul	17/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4211900	Registro	0	0	0	0	0	0	0	0	0
+Palhoça	SC	Sul	14/04/2024	13/04/2024	Chuvas Intensas	Hidrológico	4211900	Registro	0	0	0	11	50	0	61	0	0
+Palma Sola	SC	Sul	12/02/2021	12/02/2021	Enxurradas	Hidrológico	4212007	Registro	0	0	0	0	0	0	0	0	0
+Palma Sola	SC	Sul	25/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4212007	Registro	0	0	0	8	0	0	8	0	0
+Palma Sola	SC	Sul	22/08/2022	17/08/2022	Enxurradas	Hidrológico	4212007	Registro	0	0	0	0	0	0	0	0	0
+Palma Sola	SC	Sul	04/11/2023	28/10/2023	Chuvas Intensas	Hidrológico	4212007	Registro	0	0	0	0	0	0	0	0	1
+Palma Sola	SC	Sul	09/12/2024	06/12/2024	Chuvas Intensas	Hidrológico	4212007	Reconhecido	0	0	0	0	0	0	0	0	0
+Palmeira	SC	Sul	10/05/2022	02/05/2022	Alagamentos	Hidrológico	4212056	Registro	0	0	0	0	0	0	0	0	0
+Palmeira	SC	Sul	11/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4212056	Registro	0	0	0	0	0	0	0	0	0
+Palmeira	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4212056	Reconhecido	1	0	0	0	0	0	1	0	0
+Palmeira	SC	Sul	21/11/2023	15/11/2023	Chuvas Intensas	Hidrológico	4212056	Registro	0	0	0	0	0	0	0	0	0
+Palmeira	SC	Sul	11/06/2024	05/06/2024	Chuvas Intensas	Hidrológico	4212056	Registro	0	0	0	0	0	0	0	0	0
+Palmitos	SC	Sul	12/06/2020	12/06/2020	Enxurradas	Hidrológico	4212106	Registro	0	0	0	0	0	0	0	0	0
+Palmitos	SC	Sul	13/10/2022	12/10/2022	Enxurradas	Hidrológico	4212106	Registro	0	0	0	0	0	0	0	0	0
+Palmitos	SC	Sul	08/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4212106	Reconhecido	0	0	0	0	9	0	9	0	9
+Papanduva	SC	Sul	19/01/2021	19/01/2021	Alagamentos	Hidrológico	4212205	Registro	0	0	0	0	0	0	0	0	0
+Papanduva	SC	Sul	31/03/2022	31/03/2022	Chuvas Intensas	Hidrológico	4212205	Registro	0	0	0	0	0	0	0	0	0
+Papanduva	SC	Sul	20/10/2022	19/10/2022	Chuvas Intensas	Hidrológico	4212205	Registro	0	0	0	0	0	0	0	0	0
+Papanduva	SC	Sul	05/12/2022	04/12/2022	Chuvas Intensas	Hidrológico	4212205	Reconhecido	0	0	0	20	1500	0	1520	0	0
+Passo de Torres	SC	Sul	09/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4212254	Registro	0	0	0	0	0	0	0	0	0
+Passo de Torres	SC	Sul	19/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4212254	Registro	0	0	0	0	0	0	0	0	0
+Passo de Torres	SC	Sul	13/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4212254	Registro	0	0	0	0	0	0	0	0	0
+Passos Maia	SC	Sul	17/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4212270	Reconhecido	0	0	0	0	76	0	76	0	0
+Passos Maia	SC	Sul	08/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4212270	Reconhecido	0	0	0	0	0	0	0	0	1
+Paulo Lopes	SC	Sul	14/06/2021	14/06/2021	Chuvas Intensas	Hidrológico	4212304	Reconhecido	0	0	0	0	4	0	4	0	0
+Paulo Lopes	SC	Sul	01/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4212304	Reconhecido	0	0	0	0	10	0	10	0	0
+Paulo Lopes	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4212304	Reconhecido	0	0	0	0	20	0	20	0	0
+Pedras Grandes	SC	Sul	13/05/2022	05/05/2022	Enxurradas	Hidrológico	4212403	Registro	0	0	0	0	0	0	0	0	0
+Pedras Grandes	SC	Sul	12/08/2022	09/05/2022	Enxurradas	Hidrológico	4212403	Registro	0	0	0	0	0	0	0	0	0
+Pedras Grandes	SC	Sul	12/08/2022	09/08/2022	Enxurradas	Hidrológico	4212403	Registro	0	0	0	0	0	0	0	0	0
+Pedras Grandes	SC	Sul	06/12/2022	28/11/2022	Chuvas Intensas	Hidrológico	4212403	Reconhecido	0	1	0	3	0	0	4	0	0
+Pedras Grandes	SC	Sul	02/12/2022	30/11/2022	Enxurradas	Hidrológico	4212403	Registro	0	0	0	0	0	0	0	0	0
+Pedras Grandes	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4212403	Reconhecido	0	0	0	3	9	0	12	0	2
+Pedras Grandes	SC	Sul	08/11/2024	07/11/2024	Chuvas Intensas	Hidrológico	4212403	Reconhecido	0	0	0	0	0	0	0	0	0
+Penha	SC	Sul	07/02/2020	06/02/2020	Chuvas Intensas	Hidrológico	4212502	Registro	0	0	0	4	2350	0	2354	0	0
+Penha	SC	Sul	12/01/2022	10/01/2022	Alagamentos	Hidrológico	4212502	Registro	0	0	0	0	0	0	0	0	0
+Penha	SC	Sul	21/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4212502	Reconhecido	0	0	0	0	150	0	150	0	0
+Peritiba	SC	Sul	02/01/2020	31/12/2019	Chuvas Intensas	Hidrológico	4212601	Registro	0	0	0	0	0	0	0	0	0
+Peritiba	SC	Sul	19/10/2021	19/10/2021	Chuvas Intensas	Hidrológico	4212601	Registro	0	0	0	0	0	0	0	0	0
+Peritiba	SC	Sul	24/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4212601	Registro	0	0	0	0	0	0	0	0	0
+Pescaria Brava	SC	Sul	14/06/2021	14/06/2021	Chuvas Intensas	Hidrológico	4212650	Reconhecido	0	0	0	0	30	0	30	0	4
+Pescaria Brava	SC	Sul	12/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4212650	Registro	0	0	0	0	0	0	0	0	0
+Petrolândia	SC	Sul	06/12/2022	04/12/2022	Enxurradas	Hidrológico	4212700	Reconhecido	0	0	0	0	28	0	28	0	0
+Petrolândia	SC	Sul	13/01/2023	12/01/2023	Enxurradas	Hidrológico	4212700	Reconhecido	0	0	0	12	0	0	12	0	0
+Petrolândia	SC	Sul	13/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4212700	Reconhecido	0	1	0	0	32	0	33	0	0
+Petrolândia	SC	Sul	18/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4212700	Reconhecido	0	0	0	8	125	0	133	0	4
+Pinheiro Preto	SC	Sul	03/05/2022	03/05/2022	Enxurradas	Hidrológico	4213005	Registro	0	0	0	0	0	0	0	0	0
+Pinheiro Preto	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4213005	Registro	0	0	0	0	0	0	0	0	0
+Pinheiro Preto	SC	Sul	16/11/2023	16/11/2023	Alagamentos	Hidrológico	4213005	Registro	0	0	0	0	0	0	0	0	0
+Pinheiro Preto	SC	Sul	24/10/2024	23/10/2024	Alagamentos	Hidrológico	4213005	Registro	0	0	0	0	0	0	0	0	0
+Piratuba	SC	Sul	06/12/2023	17/11/2023	Chuvas Intensas	Hidrológico	4213104	Registro	0	0	0	0	12	0	12	0	6
+Planalto Alegre	SC	Sul	24/10/2023	16/10/2023	Chuvas Intensas	Hidrológico	4213153	Registro	0	0	0	0	0	0	0	0	0
+Pomerode	SC	Sul	11/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4213203	Registro	0	0	0	0	0	0	0	0	0
+Pomerode	SC	Sul	18/08/2022	08/08/2022	Chuvas Intensas	Hidrológico	4213203	Registro	0	0	0	0	0	0	0	0	0
+Pomerode	SC	Sul	06/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4213203	Registro	0	0	0	0	10	0	10	0	0
+Ponte Alta do Norte	SC	Sul	15/01/2020	15/01/2020	Enxurradas	Hidrológico	4213351	Registro	0	0	0	0	3	0	3	0	0
+Ponte Alta do Norte	SC	Sul	17/08/2020	17/08/2020	Chuvas Intensas	Hidrológico	4213351	Registro	0	0	0	0	0	0	0	0	0
+Ponte Alta do Norte	SC	Sul	19/10/2023	11/10/2023	Enxurradas	Hidrológico	4213351	Registro	0	0	0	0	6	0	6	0	0
+Ponte Serrada	SC	Sul	17/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4213401	Reconhecido	0	0	0	0	6	0	6	0	0
+Ponte Serrada	SC	Sul	09/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4213401	Registro	0	0	0	0	0	0	0	0	0
+Ponte Serrada	SC	Sul	30/04/2024	28/04/2024	Chuvas Intensas	Hidrológico	4213401	Reconhecido	0	0	0	0	184	0	184	0	0
+Porto Belo	SC	Sul	12/01/2020	12/01/2020	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	0	150	0	150	0	0
+Porto Belo	SC	Sul	16/12/2020	16/12/2020	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	0	0	0	0	0	0
+Porto Belo	SC	Sul	28/12/2020	28/12/2020	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	0	1	0	1	0	0
+Porto Belo	SC	Sul	26/01/2021	26/01/2021	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	0	0	0	0	0	0
+Porto Belo	SC	Sul	27/02/2021	27/02/2021	Alagamentos	Hidrológico	4213500	Registro	0	0	0	0	0	0	0	0	0
+Porto Belo	SC	Sul	09/03/2021	09/03/2021	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	10	2	0	12	0	0
+Porto Belo	SC	Sul	22/03/2022	21/03/2022	Alagamentos	Hidrológico	4213500	Registro	0	0	0	0	0	0	0	0	0
+Porto Belo	SC	Sul	11/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4213500	Reconhecido	0	0	0	11	41	0	52	4	0
+Porto Belo	SC	Sul	13/12/2022	12/12/2022	Chuvas Intensas	Hidrológico	4213500	Reconhecido	0	0	0	0	3	0	3	0	0
+Porto Belo	SC	Sul	20/12/2022	20/12/2022	Chuvas Intensas	Hidrológico	4213500	Reconhecido	0	0	0	25	9	0	34	0	0
+Porto Belo	SC	Sul	23/03/2023	23/03/2023	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	0	0	0	0	0	0
+Porto Belo	SC	Sul	13/10/2024	11/10/2024	Chuvas Intensas	Hidrológico	4213500	Registro	0	0	0	0	0	0	0	0	0
+Porto União	SC	Sul	15/01/2020	15/01/2020	Chuvas Intensas	Hidrológico	4213609	Registro	0	0	0	0	0	0	0	0	0
+Porto União	SC	Sul	16/10/2023	09/10/2023	Chuvas Intensas	Hidrológico	4213609	Reconhecido	0	0	0	224	2580	0	2804	0	701
+Pouso Redondo	SC	Sul	02/02/2021	02/02/2021	Enxurradas	Hidrológico	4213708	Registro	0	0	0	0	0	0	0	0	0
+Pouso Redondo	SC	Sul	05/02/2021	05/02/2021	Alagamentos	Hidrológico	4213708	Registro	0	0	0	0	0	0	0	0	0
+Pouso Redondo	SC	Sul	05/01/2022	04/01/2022	Chuvas Intensas	Hidrológico	4213708	Registro	0	0	0	0	0	0	0	0	0
+Pouso Redondo	SC	Sul	23/06/2022	22/06/2022	Inundações	Hidrológico	4213708	Reconhecido	0	0	0	0	91	0	91	0	0
+Pouso Redondo	SC	Sul	18/10/2022	11/10/2022	Inundações	Hidrológico	4213708	Registro	0	0	0	0	10	0	10	0	0
+Pouso Redondo	SC	Sul	13/03/2023	08/03/2023	Enxurradas	Hidrológico	4213708	Registro	0	0	0	0	6	0	6	0	3
+Pouso Redondo	SC	Sul	04/10/2023	04/10/2023	Inundações	Hidrológico	4213708	Registro	0	0	0	16	50	0	66	0	26
+Pouso Redondo	SC	Sul	13/10/2023	12/10/2023	Chuvas Intensas	Hidrológico	4213708	Reconhecido	0	0	0	22	126	0	148	0	41
+Pouso Redondo	SC	Sul	17/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4213708	Reconhecido	0	2	0	51	2000	0	2053	3	500
+Praia Grande	SC	Sul	14/07/2020	14/07/2020	Enxurradas	Hidrológico	4213807	Registro	0	0	0	0	70	0	70	0	0
+Praia Grande	SC	Sul	17/12/2021	17/12/2021	Enxurradas	Hidrológico	4213807	Registro	0	0	0	0	0	0	0	0	0
+Praia Grande	SC	Sul	05/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4213807	Registro	0	1	0	0	0	0	1	0	0
+Praia Grande	SC	Sul	10/03/2023	06/03/2023	Enxurradas	Hidrológico	4213807	Registro	0	0	0	0	0	0	0	0	0
+Praia Grande	SC	Sul	16/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4213807	Reconhecido	0	0	0	67	150	0	217	0	124
+Praia Grande	SC	Sul	14/07/2023	13/07/2023	Chuvas Intensas	Hidrológico	4213807	Registro	0	0	0	0	5	0	5	0	45
+Praia Grande	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4213807	Registro	0	0	1	0	0	0	1	0	0
+Praia Grande	SC	Sul	18/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4213807	Reconhecido	1	1	0	24	50	0	77	2	160
+Praia Grande	SC	Sul	02/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4213807	Reconhecido	0	0	0	20	1276	0	1296	0	0
+Praia Grande	SC	Sul	13/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4213807	Registro	0	0	0	0	0	0	0	0	0
+Praia Grande	SC	Sul	17/06/2024	16/06/2024	Chuvas Intensas	Hidrológico	4213807	Registro	0	0	0	0	3	0	3	1	0
+Presidente Castello Branco	SC	Sul	24/03/2022	18/03/2022	Enxurradas	Hidrológico	4213906	Registro	0	0	0	0	0	0	0	0	0
+Presidente Castello Branco	SC	Sul	11/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4213906	Reconhecido	0	0	0	0	4	0	4	0	0
+Presidente Castello Branco	SC	Sul	13/05/2024	02/05/2024	Enxurradas	Hidrológico	4213906	Registro	0	0	0	0	0	0	0	0	0
+Presidente Getúlio	SC	Sul	17/12/2020	17/12/2020	Enxurradas	Hidrológico	4214003	Reconhecido	12	12	0	171	1600	0	1801	0	0
+Presidente Getúlio	SC	Sul	04/05/2022	04/05/2022	Inundações	Hidrológico	4214003	Registro	0	0	0	20	49	0	69	0	0
+Presidente Getúlio	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4214003	Reconhecido	0	0	21	191	681	0	893	0	12
+Presidente Getúlio	SC	Sul	17/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4214003	Reconhecido	0	0	57	139	890	0	1086	0	269
+Presidente Getúlio	SC	Sul	20/05/2024	18/05/2024	Chuvas Intensas	Hidrológico	4214003	Registro	0	0	0	50	11	0	61	0	0
+Presidente Nereu	SC	Sul	28/01/2021	28/01/2021	Enxurradas	Hidrológico	4214102	Registro	0	0	0	0	0	0	0	0	0
+Presidente Nereu	SC	Sul	20/05/2022	04/05/2022	Enxurradas	Hidrológico	4214102	Registro	0	0	0	0	0	0	0	0	0
+Presidente Nereu	SC	Sul	03/02/2023	02/02/2023	Enxurradas	Hidrológico	4214102	Reconhecido	0	0	0	0	110	0	110	0	46
+Presidente Nereu	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4214102	Registro	0	0	0	0	0	0	0	0	0
+Princesa	SC	Sul	16/12/2024	07/12/2024	Enxurradas	Hidrológico	4214151	Registro	0	0	0	0	0	0	0	0	0
+Quilombo	SC	Sul	28/03/2022	24/03/2022	Enxurradas	Hidrológico	4214201	Registro	0	0	0	0	0	0	0	0	0
+Quilombo	SC	Sul	17/05/2022	07/04/2022	Enxurradas	Hidrológico	4214201	Registro	0	0	0	0	0	0	0	0	0
+Quilombo	SC	Sul	14/10/2022	11/10/2022	Inundações	Hidrológico	4214201	Reconhecido	0	0	0	0	32	0	32	0	0
+Quilombo	SC	Sul	02/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4214201	Reconhecido	0	2	0	21	61	0	84	0	74
+Rancho Queimado	SC	Sul	03/02/2021	03/02/2021	Chuvas Intensas	Hidrológico	4214300	Reconhecido	0	0	0	0	5	0	5	0	0
+Rancho Queimado	SC	Sul	04/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4214300	Reconhecido	0	0	0	0	20	0	20	2	0
+Rancho Queimado	SC	Sul	19/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4214300	Registro	0	0	0	0	0	0	0	0	0
+Rio das Antas	SC	Sul	12/05/2022	02/05/2022	Alagamentos	Hidrológico	4214409	Registro	0	0	0	0	2	0	2	1	2
+Rio das Antas	SC	Sul	11/07/2022	03/05/2022	Alagamentos	Hidrológico	4214409	Registro	0	0	0	0	8	0	8	1	2
+Rio das Antas	SC	Sul	13/10/2022	10/10/2022	Alagamentos	Hidrológico	4214409	Reconhecido	0	0	0	0	8	0	8	0	0
+Rio das Antas	SC	Sul	09/11/2023	02/11/2023	Alagamentos	Hidrológico	4214409	Registro	0	0	0	0	16	0	16	0	4
+Rio do Campo	SC	Sul	28/01/2021	28/01/2021	Enxurradas	Hidrológico	4214508	Registro	0	0	0	0	0	0	0	0	0
+Rio do Campo	SC	Sul	02/03/2022	17/02/2022	Enxurradas	Hidrológico	4214508	Registro	0	0	0	0	0	0	0	0	0
+Rio do Campo	SC	Sul	05/05/2022	04/05/2022	Inundações	Hidrológico	4214508	Registro	0	0	0	0	0	0	0	0	0
+Rio do Campo	SC	Sul	08/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4214508	Reconhecido	0	0	0	5	3	0	8	0	0
+Rio do Oeste	SC	Sul	26/01/2021	26/01/2021	Enxurradas	Hidrológico	4214607	Reconhecido	0	0	0	0	15	0	15	0	0
+Rio do Oeste	SC	Sul	19/01/2022	16/01/2022	Enxurradas	Hidrológico	4214607	Registro	0	0	0	0	0	0	0	0	0
+Rio do Oeste	SC	Sul	06/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4214607	Reconhecido	0	0	0	89	800	0	889	0	0
+Rio do Oeste	SC	Sul	18/10/2022	13/10/2022	Inundações	Hidrológico	4214607	Registro	0	0	0	14	0	0	14	0	0
+Rio do Oeste	SC	Sul	18/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4214607	Reconhecido	0	5	6	317	1600	0	1928	0	520
+Rio do Oeste	SC	Sul	20/05/2024	20/05/2024	Chuvas Intensas	Hidrológico	4214607	Reconhecido	0	2	6	77	150	0	235	0	0
+Rio do Sul	SC	Sul	17/12/2020	17/12/2020	Enxurradas	Hidrológico	4214805	Reconhecido	2	1	0	52	76	0	131	0	0
+Rio do Sul	SC	Sul	22/09/2021	22/09/2021	Enxurradas	Hidrológico	4214805	Registro	0	0	0	0	0	0	0	0	0
+Rio do Sul	SC	Sul	10/03/2022	08/03/2022	Alagamentos	Hidrológico	4214805	Registro	0	0	0	20	0	0	20	0	0
+Rio do Sul	SC	Sul	04/05/2022	03/05/2022	Inundações	Hidrológico	4214805	Reconhecido	0	0	0	447	2300	0	2747	0	0
+Rio do Sul	SC	Sul	24/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4214805	Registro	0	0	0	84	0	0	84	0	0
+Rio do Sul	SC	Sul	12/10/2022	10/10/2022	Inundações	Hidrológico	4214805	Registro	0	0	0	84	0	0	84	0	0
+Rio do Sul	SC	Sul	07/02/2023	02/02/2023	Alagamentos	Hidrológico	4214805	Registro	0	0	0	0	0	0	0	0	0
+Rio do Sul	SC	Sul	16/02/2023	10/02/2023	Alagamentos	Hidrológico	4214805	Registro	0	0	0	0	0	0	0	0	0
+Rio do Sul	SC	Sul	15/03/2023	08/03/2023	Alagamentos	Hidrológico	4214805	Registro	0	0	0	0	0	0	0	0	0
+Rio do Sul	SC	Sul	13/07/2023	13/07/2023	Inundações	Hidrológico	4214805	Registro	0	0	0	9	0	0	9	0	0
+Rio do Sul	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4214805	Reconhecido	0	54	0	1838	18969	0	20861	0	6541
+Rio do Sul	SC	Sul	19/05/2024	19/05/2024	Chuvas Intensas	Hidrológico	4214805	Reconhecido	0	0	0	483	2712	0	3195	0	0
+Rio do Sul	SC	Sul	08/07/2024	08/07/2024	Chuvas Intensas	Hidrológico	4214805	Registro	0	0	0	255	195	0	450	0	0
+Rio dos Cedros	SC	Sul	22/01/2021	22/01/2021	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	0	3	0	3	0	1
+Rio dos Cedros	SC	Sul	06/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	0	0	0	0	0	0
+Rio dos Cedros	SC	Sul	15/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	0	8	0	8	0	0
+Rio dos Cedros	SC	Sul	05/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4214706	Reconhecido	0	0	0	13	0	0	13	0	0
+Rio dos Cedros	SC	Sul	28/11/2022	28/11/2022	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	13	0	0	13	0	0
+Rio dos Cedros	SC	Sul	11/01/2023	03/01/2023	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	0	0	0	0	0	0
+Rio dos Cedros	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	0	0	0	0	0	0
+Rio dos Cedros	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4214706	Registro	0	0	0	0	0	0	0	0	0
+Rio Fortuna	SC	Sul	15/03/2022	14/03/2022	Enxurradas	Hidrológico	4214904	Registro	0	0	0	0	0	0	0	0	0
+Rio Fortuna	SC	Sul	21/03/2022	18/03/2022	Enxurradas	Hidrológico	4214904	Registro	0	0	0	0	0	0	0	0	0
+Rio Fortuna	SC	Sul	09/05/2022	05/05/2022	Enxurradas	Hidrológico	4214904	Reconhecido	0	0	0	0	2	0	2	0	0
+Rio Fortuna	SC	Sul	03/12/2022	01/12/2022	Enxurradas	Hidrológico	4214904	Reconhecido	0	0	0	0	11	0	11	0	0
+Rio Negrinho	SC	Sul	10/06/2020	10/06/2020	Chuvas Intensas	Hidrológico	4215000	Registro	0	0	0	0	0	0	0	0	0
+Rio Negrinho	SC	Sul	15/02/2021	15/02/2021	Inundações	Hidrológico	4215000	Registro	0	0	0	12	0	0	12	0	0
+Rio Negrinho	SC	Sul	19/11/2021	19/11/2021	Chuvas Intensas	Hidrológico	4215000	Registro	0	0	0	0	0	0	0	0	0
+Rio Negrinho	SC	Sul	18/01/2022	22/12/2021	Chuvas Intensas	Hidrológico	4215000	Registro	0	0	0	0	0	0	0	0	0
+Rio Negrinho	SC	Sul	18/01/2022	16/01/2022	Alagamentos	Hidrológico	4215000	Registro	0	0	0	0	0	0	0	0	0
+Rio Negrinho	SC	Sul	15/12/2022	27/11/2022	Chuvas Intensas	Hidrológico	4215000	Reconhecido	0	0	0	16	22	0	38	0	0
+Rio Negrinho	SC	Sul	06/01/2023	03/01/2023	Chuvas Intensas	Hidrológico	4215000	Registro	0	0	0	0	0	0	0	0	0
+Rio Negrinho	SC	Sul	18/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4215000	Reconhecido	0	0	0	6	29	0	35	5	57
+Rio Negrinho	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4215000	Reconhecido	0	0	0	48	1260	0	1308	0	315
+Rio Negrinho	SC	Sul	30/10/2023	28/10/2023	Chuvas Intensas	Hidrológico	4215000	Registro	0	0	0	16	40	0	56	0	0
+Rio Rufino	SC	Sul	15/01/2020	15/01/2020	Chuvas Intensas	Hidrológico	4215059	Reconhecido	0	0	0	0	12	0	12	0	0
+Rio Rufino	SC	Sul	06/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	23/06/2022	05/05/2022	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	44	0	44	0	11
+Rio Rufino	SC	Sul	13/05/2022	06/05/2022	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	91	0	91	0	16
+Rio Rufino	SC	Sul	20/02/2023	17/02/2023	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	09/03/2023	09/03/2023	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	04/05/2023	03/05/2023	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	08/07/2023	08/07/2023	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	11/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4215059	Reconhecido	0	0	0	0	25	0	25	0	0
+Rio Rufino	SC	Sul	03/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	06/12/2023	17/11/2023	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	08/07/2024	06/07/2024	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	15/09/2024	13/09/2024	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	15/09/2024	14/09/2024	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Rio Rufino	SC	Sul	09/12/2024	06/12/2024	Chuvas Intensas	Hidrológico	4215059	Registro	0	0	0	0	0	0	0	0	0
+Riqueza	SC	Sul	29/06/2020	29/06/2020	Enxurradas	Hidrológico	4215075	Registro	0	0	0	0	0	0	0	0	0
+Riqueza	SC	Sul	11/10/2022	11/10/2022	Enxurradas	Hidrológico	4215075	Registro	0	0	0	0	0	0	0	0	0
+Riqueza	SC	Sul	13/07/2023	13/07/2023	Enxurradas	Hidrológico	4215075	Registro	0	0	0	0	0	0	0	0	0
+Riqueza	SC	Sul	27/10/2023	20/10/2023	Chuvas Intensas	Hidrológico	4215075	Registro	0	0	0	0	0	0	0	0	0
+Riqueza	SC	Sul	20/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4215075	Reconhecido	0	0	0	0	0	0	0	0	30
+Riqueza	SC	Sul	11/10/2024	11/10/2024	Enxurradas	Hidrológico	4215075	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	03/02/2020	03/02/2020	Enxurradas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	08/02/2020	08/02/2020	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	22/06/2020	22/06/2020	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	28/11/2020	28/11/2020	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	21/01/2021	21/01/2021	Chuvas Intensas	Hidrológico	4215109	Reconhecido	0	0	0	5	29	0	34	0	1
+Rodeio	SC	Sul	28/12/2021	28/12/2021	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	04/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	27/11/2022	27/11/2022	Inundações	Hidrológico	4215109	Reconhecido	0	0	0	0	250	0	250	0	0
+Rodeio	SC	Sul	05/12/2022	04/12/2022	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	18/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4215109	Reconhecido	5	130	0	15	2804	0	2954	33	701
+Rodeio	SC	Sul	09/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4215109	Reconhecido	0	0	0	56	76	0	132	0	2
+Rodeio	SC	Sul	03/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	17/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	3	0	0	3	0	0
+Rodeio	SC	Sul	01/03/2024	29/02/2024	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Rodeio	SC	Sul	21/05/2024	19/05/2024	Chuvas Intensas	Hidrológico	4215109	Registro	0	0	0	0	0	0	0	0	0
+Romelândia	SC	Sul	31/03/2022	24/03/2022	Enxurradas	Hidrológico	4215208	Reconhecido	0	0	0	0	10	0	10	0	0
+Romelândia	SC	Sul	17/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4215208	Registro	0	0	0	0	0	0	0	0	0
+Romelândia	SC	Sul	19/10/2023	12/10/2023	Chuvas Intensas	Hidrológico	4215208	Registro	0	0	0	0	1	0	1	0	0
+Romelândia	SC	Sul	31/01/2024	16/12/2023	Enxurradas	Hidrológico	4215208	Registro	0	0	0	0	0	0	0	0	0
+Romelândia	SC	Sul	07/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4215208	Registro	0	0	0	0	0	0	0	0	0
+Salete	SC	Sul	12/05/2022	03/05/2022	Inundações	Hidrológico	4215307	Registro	0	0	0	0	0	0	0	0	0
+Salete	SC	Sul	11/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4215307	Reconhecido	0	0	0	0	16	0	16	0	5
+Salete	SC	Sul	21/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4215307	Registro	0	0	0	0	0	0	0	0	2
+Saltinho	SC	Sul	22/10/2021	22/10/2021	Enxurradas	Hidrológico	4215356	Registro	0	0	0	0	0	0	0	0	0
+Saltinho	SC	Sul	18/04/2022	25/03/2022	Enxurradas	Hidrológico	4215356	Registro	0	0	0	0	0	0	0	0	0
+Saltinho	SC	Sul	13/10/2022	11/10/2022	Enxurradas	Hidrológico	4215356	Registro	0	0	0	0	0	0	0	0	0
+Saltinho	SC	Sul	10/03/2023	09/03/2023	Enxurradas	Hidrológico	4215356	Registro	0	0	0	0	0	0	0	0	0
+Saltinho	SC	Sul	23/10/2023	23/10/2023	Chuvas Intensas	Hidrológico	4215356	Reconhecido	0	0	0	0	0	0	0	0	0
+Saltinho	SC	Sul	09/11/2023	31/10/2023	Chuvas Intensas	Hidrológico	4215356	Registro	0	0	0	0	0	0	0	0	0
+Salto Veloso	SC	Sul	18/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4215406	Registro	0	0	0	0	0	0	0	0	0
+Sangão	SC	Sul	11/08/2022	09/08/2022	Enxurradas	Hidrológico	4215455	Registro	0	0	0	0	0	0	0	0	0
+Sangão	SC	Sul	02/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4215455	Registro	0	0	0	0	0	0	0	0	0
+Sangão	SC	Sul	16/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4215455	Registro	0	0	0	0	0	0	0	0	0
+Santa Cecília	SC	Sul	16/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4215505	Registro	0	0	0	0	0	0	0	0	1
+Santa Cecília	SC	Sul	02/09/2024	08/06/2024	Chuvas Intensas	Hidrológico	4215505	Registro	0	0	0	0	3	0	3	0	0
+Santa Cecília	SC	Sul	13/09/2024	13/09/2024	Chuvas Intensas	Hidrológico	4215505	Registro	0	0	0	0	0	0	0	0	0
+Santa Helena	SC	Sul	25/05/2022	24/03/2022	Chuvas Intensas	Hidrológico	4215554	Registro	0	0	0	0	0	0	0	0	0
+Santa Helena	SC	Sul	06/06/2022	29/05/2022	Enxurradas	Hidrológico	4215554	Registro	0	0	0	0	0	0	0	0	0
+Santa Helena	SC	Sul	28/10/2022	19/10/2022	Enxurradas	Hidrológico	4215554	Registro	0	0	0	0	0	0	0	0	0
+Santa Helena	SC	Sul	23/06/2023	23/05/2023	Enxurradas	Hidrológico	4215554	Registro	0	0	0	0	0	0	0	0	0
+Santa Helena	SC	Sul	13/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4215554	Registro	0	0	0	0	0	0	0	0	0
+Santa Rosa de Lima	SC	Sul	25/02/2021	25/02/2021	Enxurradas	Hidrológico	4215604	Registro	0	0	0	0	3	0	3	0	0
+Santa Rosa de Lima	SC	Sul	10/05/2022	04/05/2022	Enxurradas	Hidrológico	4215604	Reconhecido	0	0	0	2	0	0	2	0	0
+Santa Rosa do Sul	SC	Sul	18/02/2021	18/02/2021	Enxurradas	Hidrológico	4215653	Registro	0	0	0	0	0	0	0	0	0
+Santa Rosa do Sul	SC	Sul	10/06/2021	10/06/2021	Enxurradas	Hidrológico	4215653	Registro	0	0	0	4	6	0	10	0	0
+Santa Rosa do Sul	SC	Sul	14/12/2021	14/12/2021	Chuvas Intensas	Hidrológico	4215653	Registro	0	0	0	0	0	0	0	0	0
+Santa Rosa do Sul	SC	Sul	10/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4215653	Registro	0	0	0	0	0	0	0	0	0
+Santa Rosa do Sul	SC	Sul	24/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4215653	Reconhecido	0	0	0	0	4	0	4	0	0
+Santa Rosa do Sul	SC	Sul	13/01/2023	13/01/2023	Alagamentos	Hidrológico	4215653	Registro	0	0	0	0	6	0	6	0	0
+Santa Rosa do Sul	SC	Sul	17/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4215653	Registro	0	0	0	0	0	0	0	0	0
+Santa Rosa do Sul	SC	Sul	18/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4215653	Reconhecido	0	0	0	0	80	0	80	0	180
+Santa Rosa do Sul	SC	Sul	16/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4215653	Registro	0	0	0	0	0	0	0	0	0
+Santa Rosa do Sul	SC	Sul	17/06/2024	16/06/2024	Chuvas Intensas	Hidrológico	4215653	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha	SC	Sul	06/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4215679	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha	SC	Sul	27/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4215679	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha	SC	Sul	05/12/2022	03/12/2022	Chuvas Intensas	Hidrológico	4215679	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha	SC	Sul	18/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4215679	Registro	0	0	0	0	0	0	0	0	2
+Santa Terezinha	SC	Sul	09/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4215679	Reconhecido	0	0	0	0	16	0	16	0	1
+Santa Terezinha do Progresso	SC	Sul	25/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4215687	Registro	0	0	0	0	6	0	6	0	0
+Santa Terezinha do Progresso	SC	Sul	12/04/2022	11/04/2022	Chuvas Intensas	Hidrológico	4215687	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha do Progresso	SC	Sul	22/08/2022	18/08/2022	Chuvas Intensas	Hidrológico	4215687	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha do Progresso	SC	Sul	11/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4215687	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha do Progresso	SC	Sul	18/10/2023	17/10/2023	Chuvas Intensas	Hidrológico	4215687	Reconhecido	0	0	0	0	0	0	0	0	0
+Santa Terezinha do Progresso	SC	Sul	02/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4215687	Registro	0	0	0	0	0	0	0	0	0
+Santa Terezinha do Progresso	SC	Sul	04/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4215687	Registro	0	0	0	0	0	0	0	0	0
+Santiago do Sul	SC	Sul	03/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4215695	Registro	0	0	0	0	2	0	2	0	2
+Santo Amaro da Imperatriz	SC	Sul	15/02/2021	15/02/2021	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	25	0	25	0	0
+Santo Amaro da Imperatriz	SC	Sul	19/02/2021	19/02/2021	Inundações	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	05/03/2021	05/03/2021	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	17/06/2021	17/06/2021	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	13/10/2021	13/10/2021	Chuvas Intensas	Hidrológico	4215703	Reconhecido	0	0	0	12	500	0	512	0	0
+Santo Amaro da Imperatriz	SC	Sul	22/12/2021	22/12/2021	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	31/03/2022	11/03/2022	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	11/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	30/11/2022	29/11/2022	Chuvas Intensas	Hidrológico	4215703	Reconhecido	0	0	0	165	1260	0	1425	11	0
+Santo Amaro da Imperatriz	SC	Sul	29/01/2023	29/01/2023	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	08/02/2023	02/02/2023	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	17/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4215703	Registro	0	0	0	0	0	0	0	0	0
+Santo Amaro da Imperatriz	SC	Sul	15/04/2024	15/04/2024	Chuvas Intensas	Hidrológico	4215703	Reconhecido	0	0	0	0	120	0	120	0	0
+São Bento do Sul	SC	Sul	08/03/2021	08/03/2021	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	22/09/2021	22/09/2021	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	19/11/2021	19/11/2021	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	09/12/2021	09/12/2021	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	28/01/2022	14/01/2022	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	25/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	11/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	08/06/2022	03/06/2022	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	3	0	3	0	0
+São Bento do Sul	SC	Sul	11/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	06/09/2022	03/09/2022	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	27/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4215802	Reconhecido	0	0	0	0	220	0	220	0	0
+São Bento do Sul	SC	Sul	16/02/2023	16/02/2023	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	07/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4215802	Reconhecido	0	0	0	0	69	0	69	0	18
+São Bento do Sul	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4215802	Reconhecido	0	0	0	320	880	0	1200	0	0
+São Bento do Sul	SC	Sul	30/10/2023	29/10/2023	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	13/11/2023	13/11/2023	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bento do Sul	SC	Sul	09/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4215802	Registro	0	0	0	0	0	0	0	0	0
+São Bernardino	SC	Sul	16/09/2021	16/09/2021	Chuvas Intensas	Hidrológico	4215752	Registro	0	0	0	0	0	0	0	0	0
+São Bernardino	SC	Sul	25/03/2022	24/03/2022	Chuvas Intensas	Hidrológico	4215752	Registro	0	0	0	0	0	0	0	0	0
+São Bernardino	SC	Sul	02/05/2022	23/04/2022	Chuvas Intensas	Hidrológico	4215752	Registro	0	0	0	0	0	0	0	0	0
+São Bernardino	SC	Sul	09/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4215752	Reconhecido	0	0	0	0	0	0	0	0	0
+São Bernardino	SC	Sul	17/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4215752	Registro	0	0	0	0	0	0	0	0	0
+São Bonifácio	SC	Sul	20/01/2022	15/12/2021	Enxurradas	Hidrológico	4215901	Registro	0	0	0	0	0	0	0	0	0
+São Bonifácio	SC	Sul	20/01/2022	17/12/2021	Enxurradas	Hidrológico	4215901	Registro	0	0	0	0	0	0	0	0	0
+São Bonifácio	SC	Sul	04/04/2022	03/04/2022	Enxurradas	Hidrológico	4215901	Registro	0	0	0	0	0	0	0	0	0
+São Bonifácio	SC	Sul	04/04/2022	04/04/2022	Enxurradas	Hidrológico	4215901	Registro	0	0	0	0	0	0	0	0	0
+São Bonifácio	SC	Sul	10/05/2022	05/05/2022	Enxurradas	Hidrológico	4215901	Registro	0	0	0	0	0	0	0	0	0
+São Bonifácio	SC	Sul	08/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4215901	Reconhecido	0	0	0	0	10	0	10	0	0
+São Bonifácio	SC	Sul	06/12/2022	01/12/2022	Enxurradas	Hidrológico	4215901	Registro	0	0	0	0	0	0	0	0	0
+São Carlos	SC	Sul	23/06/2020	23/06/2020	Chuvas Intensas	Hidrológico	4216008	Registro	0	0	0	0	3	0	3	0	0
+São Carlos	SC	Sul	31/05/2022	29/05/2022	Chuvas Intensas	Hidrológico	4216008	Registro	0	0	0	0	0	0	0	0	0
+São Carlos	SC	Sul	11/10/2022	06/10/2022	Chuvas Intensas	Hidrológico	4216008	Registro	0	0	0	0	0	0	0	0	0
+São Carlos	SC	Sul	26/10/2022	12/10/2022	Chuvas Intensas	Hidrológico	4216008	Registro	0	0	0	0	0	0	0	0	0
+São Carlos	SC	Sul	26/06/2023	23/06/2023	Chuvas Intensas	Hidrológico	4216008	Registro	0	0	0	0	0	0	0	0	0
+São Carlos	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4216008	Reconhecido	0	0	0	14	111	0	125	0	60
+São Carlos	SC	Sul	10/05/2024	02/05/2024	Chuvas Intensas	Hidrológico	4216008	Registro	0	0	0	0	42	0	42	0	0
+São Cristovão do Sul	SC	Sul	20/05/2022	03/05/2022	Alagamentos	Hidrológico	4216057	Registro	0	0	0	0	12	0	12	0	0
+São Cristovão do Sul	SC	Sul	27/06/2022	22/06/2022	Alagamentos	Hidrológico	4216057	Registro	0	0	0	0	0	0	0	0	0
+São Cristovão do Sul	SC	Sul	11/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4216057	Registro	0	0	0	9	20	0	29	3	6
+São Domingos	SC	Sul	18/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4216107	Reconhecido	0	0	0	50	344	0	394	6	0
+São Domingos	SC	Sul	11/10/2022	10/10/2022	Inundações	Hidrológico	4216107	Registro	0	0	0	0	21	0	21	0	0
+São Domingos	SC	Sul	08/11/2023	01/11/2023	Chuvas Intensas	Hidrológico	4216107	Reconhecido	0	0	0	3	180	0	183	0	119
+São Domingos	SC	Sul	07/11/2024	06/11/2024	Chuvas Intensas	Hidrológico	4216107	Reconhecido	0	0	0	0	10	0	10	0	0
+São Domingos	SC	Sul	07/11/2024	06/11/2024	Alagamentos	Hidrológico	4216107	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	07/02/2020	07/02/2020	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	99	0	99	0	0
+São Francisco do Sul	SC	Sul	21/01/2021	21/01/2021	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	13/02/2021	13/02/2021	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	02/03/2021	02/03/2021	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	07/01/2022	05/01/2022	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	45	0	45	0	0
+São Francisco do Sul	SC	Sul	06/01/2022	05/01/2022	Alagamentos	Hidrológico	4216206	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	04/05/2022	03/05/2022	Alagamentos	Hidrológico	4216206	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	11/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	0	0	0	0	0
+São Francisco do Sul	SC	Sul	23/01/2024	20/01/2024	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	8	0	0	8	0	0
+São Francisco do Sul	SC	Sul	09/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4216206	Registro	0	0	0	0	2	0	2	0	0
+São João Batista	SC	Sul	13/02/2020	13/02/2020	Enxurradas	Hidrológico	4216305	Registro	0	0	0	0	0	0	0	0	0
+São João Batista	SC	Sul	18/01/2021	18/01/2021	Enxurradas	Hidrológico	4216305	Registro	0	0	0	0	10	0	10	0	0
+São João Batista	SC	Sul	04/03/2021	04/03/2021	Enxurradas	Hidrológico	4216305	Registro	0	0	0	0	0	0	0	0	0
+São João Batista	SC	Sul	10/06/2021	10/06/2021	Chuvas Intensas	Hidrológico	4216305	Registro	0	0	0	0	4	0	4	0	0
+São João Batista	SC	Sul	03/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4216305	Reconhecido	0	100	0	500	10000	0	10600	4	0
+São João Batista	SC	Sul	04/01/2023	20/12/2022	Enxurradas	Hidrológico	4216305	Registro	0	0	0	0	0	0	0	0	30
+São João Batista	SC	Sul	09/10/2023	04/10/2023	Alagamentos	Hidrológico	4216305	Reconhecido	0	0	0	219	326	0	545	0	40
+São João Batista	SC	Sul	18/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4216305	Registro	0	1	0	285	800	0	1086	0	350
+São João Batista	SC	Sul	15/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4216305	Reconhecido	0	0	0	0	98	0	98	0	0
+São João Batista	SC	Sul	18/05/2024	18/05/2024	Chuvas Intensas	Hidrológico	4216305	Registro	0	0	0	0	0	0	0	0	0
+São João do Itaperiú	SC	Sul	28/03/2023	23/03/2023	Chuvas Intensas	Hidrológico	4216354	Registro	0	0	0	0	0	0	0	0	0
+São João do Itaperiú	SC	Sul	10/10/2024	10/10/2024	Alagamentos	Hidrológico	4216354	Registro	0	0	0	0	0	0	0	0	0
+São João do Oeste	SC	Sul	06/11/2023	27/10/2023	Chuvas Intensas	Hidrológico	4216255	Registro	0	0	0	0	0	0	0	0	4
+São João do Sul	SC	Sul	17/07/2020	17/07/2020	Enxurradas	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	14/06/2021	14/06/2021	Alagamentos	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	05/04/2022	06/12/2021	Chuvas Intensas	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	03/06/2022	03/05/2022	Alagamentos	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	19/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4216404	Reconhecido	0	0	0	0	20	0	20	0	0
+São João do Sul	SC	Sul	11/10/2023	13/09/2023	Chuvas Intensas	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	11/10/2023	26/09/2023	Chuvas Intensas	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	18/10/2023	16/10/2023	Chuvas Intensas	Hidrológico	4216404	Registro	0	0	0	0	0	0	0	0	0
+São João do Sul	SC	Sul	20/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4216404	Reconhecido	0	0	0	0	320	0	320	0	80
+São João do Sul	SC	Sul	20/05/2024	11/05/2024	Chuvas Intensas	Hidrológico	4216404	Reconhecido	0	0	0	0	211	0	211	0	0
+São João do Sul	SC	Sul	27/06/2024	15/06/2024	Chuvas Intensas	Hidrológico	4216404	Registro	0	0	0	0	65	0	65	0	0
+São João do Sul	SC	Sul	17/07/2024	13/07/2024	Chuvas Intensas	Hidrológico	4216404	Registro	0	0	0	0	40	0	40	0	0
+São Joaquim	SC	Sul	29/10/2021	29/10/2021	Enxurradas	Hidrológico	4216503	Registro	0	0	0	0	0	0	0	0	0
+São Joaquim	SC	Sul	31/01/2022	30/01/2022	Enxurradas	Hidrológico	4216503	Registro	0	0	0	0	0	0	0	0	0
+São Joaquim	SC	Sul	06/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4216503	Registro	2	0	0	0	8	0	10	0	8
+São Joaquim	SC	Sul	12/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4216503	Reconhecido	0	0	0	12	41	0	53	0	2188
+São José	SC	Sul	03/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4216602	Reconhecido	0	0	206	1871	150	0	2227	12	0
+São José do Cedro	SC	Sul	30/03/2022	24/03/2022	Enxurradas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	1	0
+São José do Cedro	SC	Sul	18/08/2022	17/08/2022	Enxurradas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	2	0
+São José do Cedro	SC	Sul	13/10/2022	11/10/2022	Enxurradas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cedro	SC	Sul	02/11/2023	02/11/2023	Alagamentos	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cedro	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cedro	SC	Sul	17/04/2024	16/04/2024	Chuvas Intensas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cedro	SC	Sul	16/10/2024	11/10/2024	Chuvas Intensas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cedro	SC	Sul	07/11/2024	06/11/2024	Chuvas Intensas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cedro	SC	Sul	08/12/2024	07/12/2024	Chuvas Intensas	Hidrológico	4216701	Registro	0	0	0	0	0	0	0	0	0
+São José do Cerrito	SC	Sul	16/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4216800	Registro	0	0	0	0	0	0	0	0	0
+São José do Cerrito	SC	Sul	22/06/2022	21/06/2022	Chuvas Intensas	Hidrológico	4216800	Registro	0	0	0	0	0	0	0	0	0
+São José do Cerrito	SC	Sul	12/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4216800	Registro	0	0	0	0	0	0	0	0	0
+São José do Cerrito	SC	Sul	17/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4216800	Registro	0	0	0	0	0	0	0	0	0
+São José do Cerrito	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4216800	Reconhecido	0	0	0	0	20	0	20	0	3
+São José do Cerrito	SC	Sul	13/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4216800	Registro	0	0	0	0	0	0	0	0	0
+São José do Cerrito	SC	Sul	20/11/2023	15/11/2023	Chuvas Intensas	Hidrológico	4216800	Reconhecido	0	0	0	4	342	0	346	5	31
+São José do Cerrito	SC	Sul	27/05/2024	01/05/2024	Chuvas Intensas	Hidrológico	4216800	Registro	0	0	0	0	0	0	0	0	0
+São Lourenço do Oeste	SC	Sul	21/09/2021	21/09/2021	Chuvas Intensas	Hidrológico	4216909	Registro	0	0	0	0	0	0	0	0	0
+São Lourenço do Oeste	SC	Sul	05/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4216909	Registro	0	0	0	0	0	0	0	0	0
+São Lourenço do Oeste	SC	Sul	13/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4216909	Reconhecido	0	0	0	0	15	0	15	0	0
+São Ludgero	SC	Sul	09/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4217006	Reconhecido	0	0	0	41	68	0	109	0	0
+São Ludgero	SC	Sul	02/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4217006	Reconhecido	1	0	0	0	0	0	1	0	0
+São Martinho	SC	Sul	11/06/2021	11/06/2021	Alagamentos	Hidrológico	4217105	Registro	0	0	0	0	0	0	0	0	0
+São Martinho	SC	Sul	05/05/2022	02/05/2022	Enxurradas	Hidrológico	4217105	Reconhecido	0	0	0	0	5	0	5	0	0
+São Martinho	SC	Sul	01/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4217105	Reconhecido	0	0	0	8	145	0	153	2	0
+São Martinho	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4217105	Registro	0	0	0	0	7	0	7	0	1
+São Miguel do Oeste	SC	Sul	09/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4217204	Reconhecido	0	0	0	0	120	0	120	0	0
+São Pedro de Alcântara	SC	Sul	10/06/2021	10/06/2021	Alagamentos	Hidrológico	4217253	Registro	0	0	0	0	0	0	0	0	0
+São Pedro de Alcântara	SC	Sul	02/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4217253	Reconhecido	0	0	0	0	320	0	320	0	0
+São Pedro de Alcântara	SC	Sul	17/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4217253	Reconhecido	0	0	0	0	0	0	0	0	0
+São Pedro de Alcântara	SC	Sul	29/01/2024	28/01/2024	Chuvas Intensas	Hidrológico	4217253	Reconhecido	1	0	0	0	80	0	81	0	0
+São Pedro de Alcântara	SC	Sul	17/04/2024	14/04/2024	Chuvas Intensas	Hidrológico	4217253	Reconhecido	0	0	0	0	5	0	5	0	0
+Saudades	SC	Sul	18/07/2022	29/05/2022	Enxurradas	Hidrológico	4217303	Registro	0	0	0	0	0	0	0	0	0
+Saudades	SC	Sul	18/08/2022	18/08/2022	Enxurradas	Hidrológico	4217303	Registro	0	0	0	0	0	0	0	0	0
+Saudades	SC	Sul	11/10/2022	11/10/2022	Enxurradas	Hidrológico	4217303	Reconhecido	0	0	0	0	0	0	0	0	0
+Saudades	SC	Sul	20/10/2022	19/10/2022	Enxurradas	Hidrológico	4217303	Registro	0	0	0	0	0	0	0	0	0
+Saudades	SC	Sul	16/02/2023	14/02/2023	Enxurradas	Hidrológico	4217303	Registro	0	0	0	0	0	0	0	0	0
+Saudades	SC	Sul	02/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4217303	Registro	0	0	0	0	0	0	0	0	0
+Schroeder	SC	Sul	29/11/2022	26/11/2022	Chuvas Intensas	Hidrológico	4217402	Reconhecido	0	0	0	8	8	0	16	0	0
+Schroeder	SC	Sul	16/01/2024	09/01/2024	Chuvas Intensas	Hidrológico	4217402	Registro	0	0	0	0	0	0	0	0	0
+Schroeder	SC	Sul	19/01/2024	11/01/2024	Chuvas Intensas	Hidrológico	4217402	Registro	0	0	0	0	0	0	0	0	0
+Seara	SC	Sul	28/09/2021	28/09/2021	Chuvas Intensas	Hidrológico	4217501	Registro	0	0	0	0	0	0	0	0	0
+Seara	SC	Sul	28/09/2021	28/09/2021	Enxurradas	Hidrológico	4217501	Registro	0	0	0	0	0	0	0	0	0
+Seara	SC	Sul	08/04/2022	07/04/2022	Chuvas Intensas	Hidrológico	4217501	Registro	0	0	0	0	0	0	0	0	0
+Seara	SC	Sul	18/10/2023	17/10/2023	Chuvas Intensas	Hidrológico	4217501	Registro	0	0	0	0	0	0	0	0	0
+Seara	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4217501	Reconhecido	0	0	0	0	34	0	34	3	10
+Siderópolis	SC	Sul	11/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4217600	Registro	0	0	0	0	0	0	0	0	0
+Siderópolis	SC	Sul	10/08/2022	10/08/2022	Chuvas Intensas	Hidrológico	4217600	Registro	0	0	0	0	0	0	0	0	0
+Siderópolis	SC	Sul	06/12/2022	30/11/2022	Enxurradas	Hidrológico	4217600	Reconhecido	0	0	0	0	0	0	0	0	0
+Siderópolis	SC	Sul	19/01/2023	18/01/2023	Enxurradas	Hidrológico	4217600	Registro	0	0	0	0	0	0	0	0	1
+Siderópolis	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4217600	Reconhecido	0	0	0	0	4	0	4	0	2
+Sombrio	SC	Sul	24/02/2022	06/12/2021	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sombrio	SC	Sul	09/05/2022	02/05/2022	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sombrio	SC	Sul	21/06/2023	15/06/2023	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sombrio	SC	Sul	19/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sombrio	SC	Sul	10/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sombrio	SC	Sul	15/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sombrio	SC	Sul	18/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4217709	Reconhecido	0	0	0	4	240	0	244	0	1500
+Sombrio	SC	Sul	27/05/2024	12/05/2024	Chuvas Intensas	Hidrológico	4217709	Reconhecido	0	0	0	20	256	0	276	0	0
+Sombrio	SC	Sul	17/06/2024	16/06/2024	Chuvas Intensas	Hidrológico	4217709	Registro	0	0	0	0	0	0	0	0	0
+Sul Brasil	SC	Sul	03/05/2022	03/05/2022	Enxurradas	Hidrológico	4217758	Registro	0	0	0	0	0	0	0	0	0
+Sul Brasil	SC	Sul	03/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4217758	Registro	0	0	0	0	0	0	0	0	0
+Taió	SC	Sul	02/12/2021	02/12/2021	Alagamentos	Hidrológico	4217808	Registro	0	0	0	0	0	0	0	0	0
+Taió	SC	Sul	28/01/2022	27/01/2022	Chuvas Intensas	Hidrológico	4217808	Registro	0	0	0	0	0	0	0	0	0
+Taió	SC	Sul	04/03/2022	01/03/2022	Alagamentos	Hidrológico	4217808	Registro	0	0	0	0	0	0	0	1	0
+Taió	SC	Sul	05/05/2022	03/05/2022	Inundações	Hidrológico	4217808	Reconhecido	0	0	0	67	169	0	236	0	0
+Taió	SC	Sul	20/01/2023	17/01/2023	Enxurradas	Hidrológico	4217808	Registro	0	0	0	0	0	0	0	0	0
+Taió	SC	Sul	17/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4217808	Reconhecido	0	0	0	296	3316	0	3612	0	1377
+Taió	SC	Sul	22/05/2024	19/05/2024	Chuvas Intensas	Hidrológico	4217808	Registro	0	0	0	35	25	0	60	0	0
+Tangará	SC	Sul	04/05/2022	03/05/2022	Enxurradas	Hidrológico	4217907	Reconhecido	0	0	0	3	10	0	13	0	0
+Tangará	SC	Sul	11/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4217907	Registro	0	0	0	0	0	0	0	0	0
+Tangará	SC	Sul	11/10/2022	11/10/2022	Chuvas Intensas	Hidrológico	4217907	Reconhecido	0	0	0	0	48	0	48	0	0
+Tangará	SC	Sul	12/07/2023	11/07/2023	Enxurradas	Hidrológico	4217907	Registro	0	0	0	0	0	0	0	0	0
+Tangará	SC	Sul	04/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4217907	Reconhecido	0	0	0	0	48	0	48	0	10
+Tangará	SC	Sul	16/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4217907	Registro	0	0	0	0	2	0	2	0	0
+Tangará	SC	Sul	06/03/2024	04/03/2024	Chuvas Intensas	Hidrológico	4217907	Registro	0	0	0	0	0	0	0	0	0
+Tangará	SC	Sul	24/10/2024	23/10/2024	Chuvas Intensas	Hidrológico	4217907	Registro	0	0	0	0	0	0	0	0	0
+Tigrinhos	SC	Sul	25/01/2021	25/01/2021	Chuvas Intensas	Hidrológico	4217956	Registro	0	0	0	0	0	0	0	0	0
+Tigrinhos	SC	Sul	17/10/2022	11/10/2022	Enxurradas	Hidrológico	4217956	Registro	0	0	0	0	0	0	0	0	0
+Tijucas	SC	Sul	11/06/2021	11/06/2021	Chuvas Intensas	Hidrológico	4218004	Registro	0	0	0	0	28	0	28	0	2
+Tijucas	SC	Sul	25/04/2022	07/03/2022	Chuvas Intensas	Hidrológico	4218004	Registro	0	0	0	0	0	0	0	0	0
+Tijucas	SC	Sul	16/10/2022	16/10/2022	Chuvas Intensas	Hidrológico	4218004	Registro	0	0	0	0	0	0	0	0	0
+Tijucas	SC	Sul	01/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4218004	Reconhecido	0	0	0	50	180	0	230	0	0
+Tijucas	SC	Sul	20/12/2022	19/12/2022	Chuvas Intensas	Hidrológico	4218004	Registro	0	0	0	0	0	0	0	0	0
+Tijucas	SC	Sul	09/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4218004	Reconhecido	0	0	0	0	60	0	60	0	28
+Timbé do Sul	SC	Sul	03/02/2022	31/01/2022	Alagamentos	Hidrológico	4218103	Registro	0	0	0	0	5	0	5	0	0
+Timbé do Sul	SC	Sul	07/06/2022	03/05/2022	Enxurradas	Hidrológico	4218103	Registro	0	0	0	0	0	0	0	0	0
+Timbé do Sul	SC	Sul	06/12/2022	05/12/2022	Enxurradas	Hidrológico	4218103	Registro	0	0	0	0	0	0	0	0	0
+Timbé do Sul	SC	Sul	23/03/2023	22/03/2023	Enxurradas	Hidrológico	4218103	Reconhecido	0	0	0	0	22	0	22	0	0
+Timbé do Sul	SC	Sul	14/07/2023	08/07/2023	Chuvas Intensas	Hidrológico	4218103	Registro	0	0	0	0	0	0	0	0	0
+Timbé do Sul	SC	Sul	08/11/2024	06/11/2024	Inundações	Hidrológico	4218103	Registro	0	0	0	0	0	0	0	0	0
+Timbó	SC	Sul	28/01/2021	28/01/2021	Chuvas Intensas	Hidrológico	4218202	Registro	0	0	0	16	200	0	216	0	0
+Timbó	SC	Sul	28/11/2022	27/11/2022	Chuvas Intensas	Hidrológico	4218202	Registro	0	0	0	12	50	0	62	0	30
+Timbó	SC	Sul	17/01/2023	17/01/2023	Chuvas Intensas	Hidrológico	4218202	Registro	0	0	0	0	0	0	0	0	0
+Timbó	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4218202	Registro	0	1	0	12	30	0	43	2	30
+Timbó	SC	Sul	06/11/2023	03/11/2023	Chuvas Intensas	Hidrológico	4218202	Registro	0	0	0	50	0	0	50	0	30
+Timbó Grande	SC	Sul	08/02/2021	08/02/2021	Chuvas Intensas	Hidrológico	4218251	Registro	0	0	0	0	8	0	8	0	0
+Timbó Grande	SC	Sul	27/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4218251	Registro	0	0	0	0	0	0	0	0	0
+Timbó Grande	SC	Sul	26/10/2023	18/10/2023	Enxurradas	Hidrológico	4218251	Registro	0	0	0	0	0	0	0	0	0
+Três Barras	SC	Sul	01/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	0
+Três Barras	SC	Sul	05/01/2023	04/01/2023	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	0
+Três Barras	SC	Sul	25/01/2023	18/01/2023	Enxurradas	Hidrológico	4218301	Registro	0	0	0	7	51	0	58	0	64
+Três Barras	SC	Sul	20/04/2023	18/04/2023	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	0
+Três Barras	SC	Sul	15/06/2023	11/06/2023	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	1
+Três Barras	SC	Sul	11/08/2023	08/08/2023	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	0
+Três Barras	SC	Sul	29/08/2023	24/08/2023	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	2
+Três Barras	SC	Sul	05/09/2023	04/09/2023	Chuvas Intensas	Hidrológico	4218301	Registro	0	0	0	0	0	0	0	0	18
+Três Barras	SC	Sul	05/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4218301	Reconhecido	1	0	0	1371	4352	0	5724	0	0
+Treviso	SC	Sul	08/02/2022	28/01/2022	Enxurradas	Hidrológico	4218350	Registro	0	0	0	0	0	0	0	0	0
+Treviso	SC	Sul	09/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4218350	Registro	0	0	0	0	0	0	0	0	0
+Treviso	SC	Sul	06/03/2023	06/03/2023	Chuvas Intensas	Hidrológico	4218350	Reconhecido	0	0	0	0	0	0	0	0	5
+Treviso	SC	Sul	09/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4218350	Reconhecido	0	0	0	0	0	0	0	0	4
+Treze de Maio	SC	Sul	03/12/2022	01/12/2022	Chuvas Intensas	Hidrológico	4218400	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	17/06/2020	17/06/2020	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	1	0	1	0	0
+Treze Tílias	SC	Sul	16/03/2022	15/03/2022	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	04/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	23/06/2022	21/06/2022	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	11/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	10	0	10	0	0
+Treze Tílias	SC	Sul	12/07/2023	12/07/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	09/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	17/10/2023	11/10/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	17/10/2023	16/10/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	30/10/2023	28/10/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	06/11/2023	01/11/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Treze Tílias	SC	Sul	08/12/2023	07/12/2023	Chuvas Intensas	Hidrológico	4218509	Registro	0	0	0	0	0	0	0	0	0
+Trombudo Central	SC	Sul	07/04/2022	08/03/2022	Chuvas Intensas	Hidrológico	4218608	Registro	0	0	0	0	0	0	0	0	0
+Trombudo Central	SC	Sul	11/05/2022	04/05/2022	Inundações	Hidrológico	4218608	Registro	0	0	0	26	62	0	88	0	0
+Trombudo Central	SC	Sul	24/06/2022	22/06/2022	Inundações	Hidrológico	4218608	Registro	0	0	0	0	0	0	0	0	0
+Trombudo Central	SC	Sul	10/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4218608	Reconhecido	0	0	0	33	174	0	207	0	30
+Trombudo Central	SC	Sul	17/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4218608	Reconhecido	0	0	0	63	1100	0	1163	15	1085
+Tubarão	SC	Sul	19/04/2022	28/02/2022	Chuvas Intensas	Hidrológico	4218707	Registro	0	0	0	0	0	0	0	0	0
+Tubarão	SC	Sul	07/05/2022	04/05/2022	Inundações	Hidrológico	4218707	Reconhecido	0	0	0	760	1176	0	1936	4	0
+Tubarão	SC	Sul	07/10/2022	04/05/2022	Alagamentos	Hidrológico	4218707	Registro	0	0	0	0	0	0	0	0	0
+Tubarão	SC	Sul	11/08/2022	07/08/2022	Alagamentos	Hidrológico	4218707	Registro	0	0	0	0	0	0	0	0	0
+Tubarão	SC	Sul	24/10/2022	12/10/2022	Chuvas Intensas	Hidrológico	4218707	Registro	0	0	0	0	0	0	0	0	0
+Tubarão	SC	Sul	01/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4218707	Reconhecido	0	0	0	20	83	0	103	0	0
+Tubarão	SC	Sul	04/12/2022	04/12/2022	Chuvas Intensas	Hidrológico	4218707	Registro	0	0	0	0	0	0	0	0	0
+Tubarão	SC	Sul	20/06/2023	15/06/2023	Alagamentos	Hidrológico	4218707	Registro	0	0	0	0	0	0	0	0	0
+Tubarão	SC	Sul	08/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4218707	Reconhecido	0	0	0	52	111	0	163	4	144
+Tunápolis	SC	Sul	26/03/2022	24/03/2022	Enxurradas	Hidrológico	4218756	Registro	0	0	0	0	0	0	0	0	0
+Tunápolis	SC	Sul	18/04/2022	12/04/2022	Enxurradas	Hidrológico	4218756	Registro	0	0	0	0	0	0	0	0	0
+Tunápolis	SC	Sul	30/05/2022	29/05/2022	Enxurradas	Hidrológico	4218756	Registro	0	0	0	0	0	0	0	0	0
+Tunápolis	SC	Sul	08/11/2023	17/10/2023	Chuvas Intensas	Hidrológico	4218756	Registro	0	0	0	0	0	0	0	0	0
+Tunápolis	SC	Sul	08/11/2023	27/10/2023	Chuvas Intensas	Hidrológico	4218756	Registro	0	0	0	0	0	0	0	0	0
+Tunápolis	SC	Sul	08/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4218756	Registro	0	0	0	0	0	0	0	0	0
+Turvo	SC	Sul	30/01/2023	29/01/2023	Chuvas Intensas	Hidrológico	4218806	Reconhecido	0	1	0	15	962	0	978	0	325
+Turvo	SC	Sul	06/03/2023	20/02/2023	Chuvas Intensas	Hidrológico	4218806	Registro	0	0	0	0	1	0	1	0	1
+Turvo	SC	Sul	13/05/2024	30/04/2024	Chuvas Intensas	Hidrológico	4218806	Registro	0	0	0	0	0	0	0	0	0
+Turvo	SC	Sul	13/05/2024	11/05/2024	Chuvas Intensas	Hidrológico	4218806	Registro	0	0	0	0	0	0	0	0	0
+União do Oeste	SC	Sul	01/04/2022	24/03/2022	Enxurradas	Hidrológico	4218855	Registro	0	0	0	0	0	0	0	0	0
+União do Oeste	SC	Sul	06/06/2022	29/05/2022	Enxurradas	Hidrológico	4218855	Registro	0	0	0	0	0	0	0	0	0
+União do Oeste	SC	Sul	22/08/2022	17/08/2022	Enxurradas	Hidrológico	4218855	Registro	0	0	0	0	0	0	0	0	0
+União do Oeste	SC	Sul	14/10/2022	12/10/2022	Alagamentos	Hidrológico	4218855	Registro	0	0	0	0	0	0	0	0	0
+União do Oeste	SC	Sul	11/07/2023	11/07/2023	Enxurradas	Hidrológico	4218855	Registro	0	0	0	0	0	0	0	0	0
+União do Oeste	SC	Sul	07/11/2023	02/11/2023	Chuvas Intensas	Hidrológico	4218855	Registro	0	0	0	0	0	0	0	0	0
+Urubici	SC	Sul	04/11/2021	04/11/2021	Enxurradas	Hidrológico	4218905	Registro	0	0	0	0	0	0	0	0	0
+Urubici	SC	Sul	06/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4218905	Reconhecido	1	2	0	47	1101	0	1151	0	0
+Urubici	SC	Sul	05/12/2022	02/12/2022	Chuvas Intensas	Hidrológico	4218905	Registro	0	0	0	0	0	0	0	0	0
+Urubici	SC	Sul	19/07/2023	13/07/2023	Chuvas Intensas	Hidrológico	4218905	Registro	0	0	0	0	6	0	6	0	7
+Urubici	SC	Sul	09/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4218905	Reconhecido	0	0	0	57	243	0	300	0	80
+Urubici	SC	Sul	06/11/2023	30/10/2023	Chuvas Intensas	Hidrológico	4218905	Registro	0	0	0	0	0	0	0	0	0
+Urubici	SC	Sul	20/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4218905	Reconhecido	0	0	0	8	3162	0	3170	0	1054
+Urupema	SC	Sul	09/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4218954	Registro	0	0	0	0	10	0	10	0	9
+Urupema	SC	Sul	24/11/2023	18/11/2023	Chuvas Intensas	Hidrológico	4218954	Registro	0	0	0	0	3	0	3	0	2
+Urussanga	SC	Sul	15/02/2021	15/02/2021	Enxurradas	Hidrológico	4219002	Registro	0	0	0	0	0	0	0	0	0
+Urussanga	SC	Sul	17/03/2021	17/03/2021	Enxurradas	Hidrológico	4219002	Registro	0	0	0	0	0	0	0	0	0
+Urussanga	SC	Sul	14/12/2022	30/11/2022	Chuvas Intensas	Hidrológico	4219002	Registro	0	0	0	0	0	0	0	0	0
+Urussanga	SC	Sul	07/10/2023	07/10/2023	Chuvas Intensas	Hidrológico	4219002	Reconhecido	0	1	2	13	181	0	197	0	97
+Urussanga	SC	Sul	18/03/2024	16/03/2024	Chuvas Intensas	Hidrológico	4219002	Registro	0	0	0	0	0	0	0	0	0
+Vargeão	SC	Sul	14/10/2022	13/10/2022	Chuvas Intensas	Hidrológico	4219101	Registro	0	0	0	0	0	0	0	0	0
+Vargeão	SC	Sul	18/10/2023	12/10/2023	Chuvas Intensas	Hidrológico	4219101	Registro	0	0	0	0	0	0	0	0	0
+Vargeão	SC	Sul	29/04/2024	28/04/2024	Alagamentos	Hidrológico	4219101	Registro	0	0	0	0	0	0	0	0	0
+Vargem	SC	Sul	10/05/2022	04/05/2022	Enxurradas	Hidrológico	4219150	Registro	0	0	0	5	5	0	10	0	3
+Vargem	SC	Sul	26/06/2022	22/06/2022	Chuvas Intensas	Hidrológico	4219150	Registro	0	0	0	0	64	0	64	0	18
+Vargem	SC	Sul	06/10/2023	04/10/2023	Alagamentos	Hidrológico	4219150	Registro	0	0	0	0	35	0	35	1	34
+Vargem	SC	Sul	18/10/2023	04/10/2023	Chuvas Intensas	Hidrológico	4219150	Reconhecido	0	0	0	0	0	0	0	0	0
+Vargem	SC	Sul	18/01/2024	18/01/2024	Chuvas Intensas	Hidrológico	4219150	Registro	0	0	0	0	0	0	0	0	0
+Vargem	SC	Sul	04/05/2024	02/05/2024	Alagamentos	Hidrológico	4219150	Registro	0	0	0	0	0	0	0	0	0
+Vargem Bonita	SC	Sul	13/09/2022	04/05/2022	Chuvas Intensas	Hidrológico	4219176	Registro	0	0	0	0	0	0	0	0	0
+Vidal Ramos	SC	Sul	19/12/2020	19/12/2020	Chuvas Intensas	Hidrológico	4219200	Reconhecido	0	0	0	0	20	0	20	0	0
+Vidal Ramos	SC	Sul	09/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4219200	Registro	0	0	0	0	5	0	5	0	0
+Vidal Ramos	SC	Sul	21/11/2023	17/11/2023	Chuvas Intensas	Hidrológico	4219200	Reconhecido	0	0	0	31	0	0	31	5	6
+Videira	SC	Sul	10/05/2022	03/05/2022	Inundações	Hidrológico	4219309	Reconhecido	0	0	0	0	280	0	280	0	0
+Videira	SC	Sul	17/10/2022	11/10/2022	Inundações	Hidrológico	4219309	Reconhecido	0	0	0	28	265	0	293	0	0
+Videira	SC	Sul	06/11/2023	03/11/2023	Inundações	Hidrológico	4219309	Reconhecido	0	0	0	0	0	0	0	0	0
+Videira	SC	Sul	24/11/2023	24/11/2023	Chuvas Intensas	Hidrológico	4219309	Registro	0	0	0	0	0	0	0	0	0
+Vitor Meireles	SC	Sul	08/10/2023	08/10/2023	Chuvas Intensas	Hidrológico	4219358	Reconhecido	0	0	0	63	164	0	227	0	55
+Witmarsum	SC	Sul	22/08/2022	18/08/2022	Alagamentos	Hidrológico	4219408	Registro	0	0	0	0	0	0	0	0	0
+Witmarsum	SC	Sul	17/10/2022	14/10/2022	Alagamentos	Hidrológico	4219408	Registro	0	0	0	0	15	0	15	0	0
+Witmarsum	SC	Sul	12/07/2023	12/07/2023	Enxurradas	Hidrológico	4219408	Registro	0	1	0	0	30	0	31	0	15
+Witmarsum	SC	Sul	10/10/2023	06/10/2023	Chuvas Intensas	Hidrológico	4219408	Reconhecido	0	2	0	8	7	0	17	0	15
+Xanxerê	SC	Sul	16/06/2020	16/06/2020	Chuvas Intensas	Hidrológico	4219507	Reconhecido	0	0	0	0	1	0	1	1	0
+Xanxerê	SC	Sul	19/05/2022	04/05/2022	Chuvas Intensas	Hidrológico	4219507	Registro	0	0	0	2	0	0	2	0	0
+Xanxerê	SC	Sul	17/10/2022	10/10/2022	Chuvas Intensas	Hidrológico	4219507	Registro	0	0	0	0	0	0	0	0	0
+Xanxerê	SC	Sul	14/12/2023	10/12/2023	Chuvas Intensas	Hidrológico	4219507	Reconhecido	1	1	0	142	664	0	808	0	664
+Xavantina	SC	Sul	22/02/2024	28/11/2023	Chuvas Intensas	Hidrológico	4219606	Registro	0	0	0	0	0	0	0	0	0
+Xavantina	SC	Sul	28/12/2023	07/12/2023	Chuvas Intensas	Hidrológico	4219606	Reconhecido	0	0	0	0	0	0	0	0	13
+Xaxim	SC	Sul	11/05/2022	03/05/2022	Chuvas Intensas	Hidrológico	4219705	Registro	0	0	0	0	0	0	0	0	0
+Xaxim	SC	Sul	30/11/2023	16/11/2023	Enxurradas	Hidrológico	4219705	Registro	0	0	0	0	0	0	0	0	0
+Zortéa	SC	Sul	23/06/2022	22/06/2022	Enxurradas	Hidrológico	4219853	Registro	0	0	0	0	0	0	0	0	0
+Zortéa	SC	Sul	18/08/2022	17/08/2022	Enxurradas	Hidrológico	4219853	Registro	0	0	0	0	0	0	0	0	0
+Zortéa	SC	Sul	06/10/2022	06/10/2022	Enxurradas	Hidrológico	4219853	Registro	0	0	0	0	0	0	0	0	0
+Zortéa	SC	Sul	24/11/2023	16/11/2023	Chuvas Intensas	Hidrológico	4219853	Reconhecido	0	0	0	20	24	0	44	0	120
